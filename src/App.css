@@ -13,15 +13,117 @@
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.Home_Page {
+  position: absolute;
+  top: 100px;
+  left: 100px;
+  right: 100px;
+  bottom: 80px;
+  min-height: 300px;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  box-shadow: 8px 5px 2px lightblue;
+  border-style: solid;
+  border-width: 2px;
+  border-color: lightblue;
+}
+/******************************* BACKGROUND ************************************/
+.Full_Page {
+  /*background-color: beige;*/
+  /*background-color: lavender;*/
+  background-color: white;
+  height: 100vh;
+}
+/**************************** HEADER & NAV *************************************/
+
+.nav-area {
+  display: flex;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 10px 20px;
+}
+
+
+.nav-area {
+  display: flex;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 10px 20px;
+}
+
+.header{}
+
+.desktop-nav{
+  width: 100%;
+}
+
+.menus {}
+
+
+.Nav_Bar {
+  display: flex;
+}
+
+.Home_Link{
+  position: absolute;
+  left: 25vw;
+  top: 15px;
+  width: 25px;
+  height: 5px;
+  text-align: justify;
+}
+
+.Port_Link{
+  position: absolute;
+  right: 50vw;
+  top: 15px;
+}
+
+.Contact_Link{
+  position: absolute;
+  right: 25vw;
+  top: 15px;
+}
+
+.logo{
+  border-style: solid;
+  border-color: white;
+  border-width: 2px;
+  height: 15vh;
+  width: 15vh;
+  border-radius: 50%;
+  position: absolute;
+  left: 0.2vh;
+  top: 0.3vh;
+
+}
+
+
+.home{
+  color: royalblue;
+  text-decoration: none;
+  position: absolute;
+  top: 0px;
+}
+
+.portfolio{
+  color: royalblue;
+  text-decoration: none;
+  position: absolute;
+  top: 0px;
+}
+
+.contact{
+  color: royalblue;
+  text-decoration: none;
+  position: absolute;
+  top: 0px;
 }
 
 .App-link {
@@ -35,4 +137,723 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+/****************************** HOME PAGE ******************************/
+
+
+.Title {
+  display: flex;
+  padding-right: 50px;
+  width: 254px;
+  height: 250px;
+  position: absolute;
+  left: 30vw;
+  top: -5vh;
+}
+
+.title {
+  font-size: 10vw;
+  color: royalblue;
+  position: absolute;
+  top: 0px;
+}
+
+.about_me {
+  color: royalblue;
+  position: absolute;
+  bottom: 10vh;
+  left: 25vw;
+  width: 40vw;
+  text-align: left;
+  font-size: 1.7vw;
+}
+
+
+/**************************** PORTFOLIO PAGE ********************************/
+
+.pyth_img_3{
+  border: 1px;
+  border-radius: 130px;
+  position: absolute;
+  left: 200px;
+  top: 80px;
+}
+
+.RNN_v_LSTM_title{
+  position: absolute;
+  left: 310px;
+  top: 70px;
+  font-size: 20px;
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+}
+
+.RNN_v_LSTM_description{
+  font-size: 11px;
+  width: 480px;
+  position: absolute;
+  left: 310px;
+  top: 110px;
+}
+
+.RNN_v_LSTM_link{
+  font-size: 11px;
+  text-decoration: none;
+  position: absolute;
+  left: 310px;
+  top: 160px;
+}
+
+
+.pyth_img_2{
+  border: 1px;
+  border-radius: 130px;
+  position: absolute;
+  left: 200px;
+  top: 220px;
+}
+
+.SM_tech_indicators_title{
+  position: absolute;
+  left: 310px;
+  top: 230px;
+  font-size: 20px;
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+}
+
+.SM_tech_indicators_description{
+  font-size: 11px;
+  width: 480px;
+  position: absolute;
+  left: 310px;
+  top: 250px;
+}
+
+.SM_tech_indicators_link{
+  font-size: 11px;
+  text-decoration: none;
+  position: absolute;
+  left: 310px;
+  top: 300px;
+}
+
+
+.pyth_img_1{
+  border: 1px;
+  border-radius: 130px;
+  position: absolute;
+  left: 200px;
+  top: 360px;
+}
+
+.time_series_vis_title{
+  position: absolute;
+  left: 310px;
+  top: 350px;
+  font-size: 20px;
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+}
+
+.time_series_vis_description{
+  font-size: 11px;
+  width: 480px;
+  position: absolute;
+  left: 310px;
+  top: 390px;
+}
+
+.time_series_vis_link{
+  font-size: 11px;
+  text-decoration: none;
+  position: absolute;
+  left: 310px;
+  top: 440px;
+}
+
+
+
+.csharp_image {
+  border: 1px;
+  border-radius: 130px;
+  position: absolute;
+  left: 200px;
+  top: 520px;
+}
+
+.trading_engine_title {
+  position: absolute;
+  left: 310px;
+  top: 490px;
+  font-size: 20px;
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+}
+
+.trading_engine_description{
+  font-size: 11px;
+  width: 480px;
+  position: absolute;
+  left: 310px;
+  top: 530px;
+}
+
+.trading_link{
+  font-size: 11px;
+  text-decoration: none;
+  position: absolute;
+  left: 310px;
+  top: 600px;
+}
+
+
+
+.SMA_ML {
+  width: fit-content;
+}
+
+.sma_image {
+  border: 1px white;
+  border-radius: 100px;
+  position: absolute;
+  left: 200px;
+  top: 650px;
+}
+
+.sma_title {
+  position: absolute;
+  left: 310px;
+  top: 650px;
+  font-size: 20px;
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+}
+
+.sma_description{
+  font-size: 11px;
+  width: 480px;
+  position: absolute;
+  left: 310px;
+  top: 670px;
+}
+
+.FFNN_Deriv {
+  width: fit-content;
+}
+
+.ffnn_image {
+  border: 1px white;
+  border-radius: 100px;
+  position: absolute;
+  left: 200px;
+  top: 790px;
+}
+
+.ffnn_title{
+  position: absolute;
+  left: 310px;
+  top: 790px;
+  font-size: 20px;
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+}
+
+.ffnn_description {
+  font-size: 11px;
+  width: 480px;
+  position: absolute;
+  left: 310px;
+  top: 820px;
+}
+
+.NFT_Lottery{
+  width: fit-content;
+}
+
+.nft_image_1{
+  border: 1px white;
+  border-radius: 100px;
+  position: absolute;
+  left: 200px;
+  top: 930px;
+}
+
+.NFT_Title_1 {
+  position: absolute;
+  left: 310px;
+  top: 920px;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.NFT_Lottery_description {
+  font-size: 11px;
+  width: 480px;
+  position: absolute;
+  left: 310px;
+  top: 960px;
+}
+
+.NFT_Link_1 {
+  font-size: 11px;
+  text-decoration: none;
+  position: absolute;
+  left: 310px;
+  top: 1000px;
+}
+
+.NFT_Basic{
+  width: fit-content;
+}
+
+.nft_image_2{
+  border: 1px white;
+  border-radius: 100px;
+  position: absolute;
+  left: 200px;
+  top: 1070px;
+}
+
+.NFT_Title_2 {
+  position: absolute;
+  left: 310px;
+  top: 1060px;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.NFT_Basic_description {
+  font-size: 11px;
+  width: 480px;
+  position: absolute;
+  left: 310px;
+  top: 1100px;
+}
+
+.NFT_Link_2 {
+  font-size: 11px;
+  text-decoration: none;
+  position: absolute;
+  left: 310px;
+  top: 1140px;
+}
+
+
+.NFT_website{
+  width: fit-content;
+}
+
+.nft_image_3{
+  border: 1px white;
+  border-radius: 100px;
+  position: absolute;
+  left: 200px;
+  top: 1210px;
+}
+
+.NFT_Title_3 {
+  position: absolute;
+  left: 310px;
+  top: 1200px;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.NFT_Website_description {
+  font-size: 11px;
+  width: 480px;
+  position: absolute;
+  left: 310px;
+  top: 1240px;
+}
+
+.NFT_Link_3 {
+  font-size: 11px;
+  text-decoration: none;
+  position: absolute;
+  left: 310px;
+  top: 1290px;
+}
+
+.ML_Python_cert{
+  width: fit-content;
+}
+
+.cert_image_1{
+  border: 1px white;
+  border-radius: 100px;
+  position: absolute;
+  left: 200px;
+  top: 1360px;
+}
+
+.Cert_Title_1 {
+  position: absolute;
+  left: 310px;
+  top: 1370px;
+  font-size: 20px;
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+}
+
+.Cert_1_description {
+  font-size: 11px;
+  width: 480px;
+  position: absolute;
+  left: 310px;
+  top: 1390px;
+}
+
+.NN_DL_cert{
+  width: fit-content;
+}
+
+.cert_image_2{
+  border: 1px white;
+  border-radius: 100px;
+  position: absolute;
+  left: 200px;
+  top: 1500px;
+}
+
+.Cert_Title_2 {
+  position: absolute;
+  left: 310px;
+  top: 1510px;
+  font-size: 20px;
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+}
+
+.Cert_2_description {
+  font-size: 11px;
+  width: 480px;
+  position: absolute;
+  left: 310px;
+  top: 1530px;
+}
+
+.Math_ML_cert{
+  width: fit-content;
+}
+
+.cert_image_3{
+  border: 1px white;
+  border-radius: 100px;
+  position: absolute;
+  left: 200px;
+  top: 1640px;
+}
+
+.Cert_Title_3 {
+  position: absolute;
+  left: 310px;
+  top: 1650px;
+  font-size: 20px;
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+}
+
+.Cert_3_description {
+  font-size: 11px;
+  width: 480px;
+  position: absolute;
+  left: 310px;
+  top: 1670px;
+}
+
+.Masters_Proj{
+  width: fit-content;
+}
+
+.nott_image{
+  border: 1px white;
+  border-radius: 100px;
+  position: absolute;
+  left: 200px;
+  top: 1780px;
+}
+
+.Masters_Title {
+  position: absolute;
+  left: 310px;
+  top: 1785px;
+  font-size: 20px;
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+}
+
+.Masters_description {
+  font-size: 11px;
+  width: 480px;
+  position: absolute;
+  left: 310px;
+  top: 1800px;
+}
+
+.masters_code{
+  font-size: 11px;
+  text-decoration: none;
+  position: absolute;
+  left: 310px;
+  top: 1865px;
+}
+/*********************** Technical Indicators Page ***************************/
+
+.inds_page1 {
+  position: absolute;
+  left: 30vw;
+}
+
+.inds_page2 {
+  position: absolute;
+  left: 18vw;
+  top: 532px;
+}
+
+.inds_page3 {
+  position: absolute;
+  left: 18vw;
+  top: 1032px;
+}
+
+.inds_page4  {
+  position: absolute;
+  left: 18vw;
+  top: 1530px;
+}
+
+.inds_page5  {
+  position: absolute;
+  left: 18vw;
+  top: 2030px;
+}
+
+.inds_page6  {
+  position: absolute;
+  left: 18vw;
+  top: 2530px;
+}
+
+.inds_page7  {
+  position: absolute;
+  left: 18vw;
+  top: 2530px;
+}
+
+.inds_page8  {
+  position: absolute;
+  left: 18vw;
+  top: 3030px;
+}
+
+
+
+
+
+
+
+/*********************** Stock Market Analysis Page ***************************/
+
+.SMA_page1 {
+  position: absolute;
+  left: 38vw;
+  top: 82px;
+}
+
+.SMA_page2 {
+  position: absolute;
+  left: 23vw;
+  top: 632px;
+}
+
+.SMA_page3 {
+  position: absolute;
+  left: 23vw;
+  top: 1132px;
+}
+
+.SMA_page4 {
+  position: absolute;
+  left: 23vw;
+  top: 1630px;
+}
+
+.SMA_page5 {
+  position: absolute;
+  left: 23vw;
+  top: 2130px;
+}
+
+.SMA_page6 {
+  position: absolute;
+  left:23vw;
+  top: 2630px;
+}
+
+.SMA_page7 {
+  position: absolute;
+  left: 23vw;
+  top: 3130px;
+}
+
+/********************************* FFNN Page **************************/
+
+.FFNN_page1 {
+  position: absolute;
+  left: 38vw;
+}
+
+.FFNN_page2 {
+  position: absolute;
+  left: 23vw;
+  top: 632px;
+}
+
+.FFNN_page3 {
+  position: absolute;
+  left: 23vw;
+  top: 1132px;
+}
+
+.FFNN_page4 {
+  position: absolute;
+  left: 23vw;
+  top: 1632px;
+}
+
+.FFNN_page5 {
+  position: absolute;
+  left: 23vw;
+  top: 2132px;
+}
+
+.FFNN_page6 {
+  position: absolute;
+  left: 23vw;
+  top: 2632px;
+}
+
+/************************** Cert Pages *****************************/
+
+.cert1{
+  position: absolute;
+  left: 25vw;
+}
+
+.cert2{
+  position: absolute;
+  left: 25vw;
+}
+
+.cert3{
+  position: absolute;
+  left: 25vw;
+}
+
+/***************************** Masters Page ******************************/
+
+.masters_page1 {
+  position: absolute;
+  left: 38vw;
+}
+
+.masters_page2 {
+  position: absolute;
+  left: 23vw;
+  top: 632px;
+}
+
+.masters_page3 {
+  position: absolute;
+  left: 23vw;
+  top: 1132px;
+}
+
+.masters_page4 {
+  position: absolute;
+  left: 23vw;
+  top: 1630px;
+}
+
+.masters_page5 {
+  position: absolute;
+  left: 23vw;
+  top: 2130px;
+}
+
+.masters_page6 {
+  position: absolute;
+  left: 23vw;
+  top: 2630px;
+}
+
+.masters_page7 {
+  position: absolute;
+  left: 23vw;
+  top: 3130px;
+}
+
+/*********************************** Contact Page *********************************/
+
+.Contact_Box {
+  position: absolute;
+  left: 33vw;
+  top: 40vh;
+  width: 40vw;
+  height: 20vh;
+  border-style: solid;
+  border-color: lightblue;
+}
+
+.linked_logo {
+  position: absolute;
+  height: 10vh;
+  bottom: -1vh;
+}
+
+.linked_link {
+  font-size: 1.2vw;
+  position: absolute;
+  left: 2vw;
+  bottom: 3vh;
+  color: royalblue;
+}
+
+
+.phone_logo{
+  position: absolute;
+  top: 8vh;
+}
+
+.phone_number{
+  color: royalblue;
+  font-size: 1.2vw;
+  position: absolute;
+  left: 2vw;
+  top: 5.5vh;
+}
+
+.email_logo {
+  position: absolute;
+  top: 2vh;
+}
+
+.email{
+  position: absolute;
+  top: -0.7vh;
+  left: 2vw;
+  color: royalblue;
 }
