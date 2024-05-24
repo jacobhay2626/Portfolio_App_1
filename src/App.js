@@ -11,7 +11,7 @@ function App() {
                 <p className={"about_me"}>
                     I'm Jacob Hayward and this is a website I have made to showcase my previous work and the projects
                     I work on whilst looking for my next step. I think Arsenal are the best team in the world, I also enjoy
-                    learning about computer programming and how the world around me works. Enjoy!
+                    learning about computer programming, and how the world around me works. Enjoy!
                 </p>
           </div>
       </div>
