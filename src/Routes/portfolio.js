@@ -19,7 +19,7 @@ function Portfolio() {
                     the performance of a LSTM model to a RNN model for forecasting.</p>
 
                 <Link className={"RNN_v_LSTM_link"}
-                      to={"https://github.com/jacobhay2626/SM_Technical_Indicators.git"}>Source
+                      to={"https://github.com/jacobhay2626/SM_Technical_Indicators.git"} target={"_blank"}>Source
                     Code</Link>
             </div>
 
@@ -27,7 +27,7 @@ function Portfolio() {
                 <div>
                     {/*<img className={"pyth_img_2"} src={PYTH_IMG} alt={"pyth"} width={90} height={100}/>*/}
                 </div>
-                <h2 className={"SM_tech_indicators_title"} > Stock Market Technical
+                <h2 className={"SM_tech_indicators_title"}> Stock Market Technical
                     Indicators</h2>
                 <p className={"SM_tech_indicators_description"}> Using a stock market dataset I investigated different
                     technical indicators which can be applied for stock market analysis.
@@ -35,11 +35,12 @@ function Portfolio() {
                     and their applicability. </p>
 
                 <Link className={'SM_tech_pdf'}
-                      to={'https://acrobat.adobe.com/id/urn:aaid:sc:EU:5d7fc369-71a4-4201-9905-0c1540e8fb09'}> View
+                      to={'https://acrobat.adobe.com/id/urn:aaid:sc:EU:5d7fc369-71a4-4201-9905-0c1540e8fb09'}
+                      target={"_blank"}> View
                     Paper </Link>
 
                 <Link className={"SM_tech_indicators_link"}
-                      to={"https://github.com/jacobhay2626/SM_Technical_Indicators.git"}>Source
+                      to={"https://github.com/jacobhay2626/SM_Technical_Indicators.git"} target={"_blank"}>Source
                     Code</Link>
             </div>
 
@@ -54,7 +55,7 @@ function Portfolio() {
                     visualised using matplotlib. </p>
 
                 <Link className={"time_series_vis_link"}
-                      to={"https://github.com/jacobhay2626/time_series_visualisation.git"}>Source
+                      to={"https://github.com/jacobhay2626/time_series_visualisation.git"} target={"_blank"}>Source
                     Code</Link>
             </div>
 
@@ -64,13 +65,15 @@ function Portfolio() {
                     {/*<img className={"csharp_image"} src={CSharp_IMG} alt={"cs"} width={90} height={100}/>*/}
                 </div>
                 <h2 className={"trading_engine_title"}> Trading Engine Server and Logging Library</h2>
-                <p className={"trading_engine_description"}> Using C#, I developed a trading engine server with a logging
+                <p className={"trading_engine_description"}> Using C#, I developed a trading engine server with a
+                    logging
                     library. During this project i learnt about important concepts such as dependency injection,
                     logging, hosting,
                     interfaces, and the trading engine class. I chose to write my own logging library as i felt it was a
                     challenge and i wanted it to be dependency injection friendly. </p>
 
-                <Link className={"trading_link"} to={"https://github.com/jacobhay2626/TradingEngineServer_05-24.git"}>Source
+                <Link className={"trading_link"} to={"https://github.com/jacobhay2626/TradingEngineServer_05-24.git"}
+                      target={"_blank"}>Source
                     Code</Link>
 
             </div>
@@ -87,7 +90,7 @@ function Portfolio() {
                     where they have been used in stock market analysis , and a description of
                     the methodologies for each technique.</p>
                 <Link to={'https://acrobat.adobe.com/id/urn:aaid:sc:EU:2fe9275b-787b-4ac0-8740-512b8b12e559'}
-                      className={'sma_pdf'}> View Paper </Link>
+                      className={'sma_pdf'} target={"_blank"}> View Paper </Link>
             </div>
 
 
@@ -102,7 +105,7 @@ function Portfolio() {
                     networks including forward propagation, cost functions, and back
                     propagation </p>
                 <Link to={'https://acrobat.adobe.com/id/urn:aaid:sc:EU:2d9171ea-7a74-4573-849b-e1f3d7756be7'}
-                      className={'ffnn_pdf'}> View Paper</Link>
+                      className={'ffnn_pdf'} target={"_blank"}> View Paper</Link>
             </div>
 
 
@@ -114,7 +117,8 @@ function Portfolio() {
                 <p className={"NFT_Lottery_description"}>
                     A lottery for a random NFT that rewards a lucky winner!
                 </p>
-                <Link className={"NFT_Link_1"} to={"https://github.com/jacobhay2626/NFT_Lottery.git"}>Source Code</Link>
+                <Link className={"NFT_Link_1"} to={"https://github.com/jacobhay2626/NFT_Lottery.git"} target={"_blank"}>Source
+                    Code</Link>
             </div>
 
 
@@ -127,7 +131,8 @@ function Portfolio() {
                     A basic NFT contract that allows an individual to upload an NFT
                     using the images token URI
                 </p>
-                <Link className={"NFT_Link_2"} to={"https://github.com/jacobhay2626/Basic-NFT-.git"}>Source Code</Link>
+                <Link className={"NFT_Link_2"} to={"https://github.com/jacobhay2626/Basic-NFT-.git"} target={"_blank"}>Source
+                    Code</Link>
             </div>
 
 
@@ -141,7 +146,8 @@ function Portfolio() {
                     generate NFTs, marketed the collection on social media, and used this
                     website to sell the NFTs.
                 </p>
-                <Link className={"NFT_Link_3"} to={"https://github.com/jacobhay2626/CoastalSeasons_AI.git"}>Source
+                <Link className={"NFT_Link_3"} to={"https://github.com/jacobhay2626/CoastalSeasons_AI.git"}
+                      target={"_blank"}>Source
                     Code</Link>
             </div>
 
@@ -158,7 +164,7 @@ function Portfolio() {
                     models using Keras, PyTorch, and TensorFlow.
                 </p>
                 <Link to={'https://acrobat.adobe.com/id/urn:aaid:sc:EU:7d6da147-575d-4d3b-87e5-9af10d15b12b'}
-                      className={"ML_pyth_pdf"}> View Certificate </Link>
+                      className={"ML_pyth_pdf"} target={"_blank"}> View Certificate </Link>
             </div>
 
 
@@ -173,7 +179,7 @@ function Portfolio() {
                 </p>
 
                 <Link to={'https://acrobat.adobe.com/id/urn:aaid:sc:EU:baa45193-4918-47f5-820e-aea46e7e7bb1'}
-                      className={"NN_DL_pdf"}> View Certificate </Link>
+                      className={"NN_DL_pdf"} target={"_blank"}> View Certificate </Link>
             </div>
 
 
@@ -189,7 +195,7 @@ function Portfolio() {
                     & Statistics for Machine Learning and Data Science'.
                 </p>
                 <Link to={'https://acrobat.adobe.com/id/urn:aaid:sc:EU:a7d01b2a-9c77-4790-9a90-03bc661d5a59'}
-                      className={"Math_ML_pdf"}> View Certificate </Link>
+                      className={"Math_ML_pdf"} target={"_blank"}> View Certificate </Link>
             </div>
 
             <div className={"Masters_Proj"}>
@@ -204,8 +210,9 @@ function Portfolio() {
                     then tested on an external dataset using a new set of solvents common in industry.
                 </p>
                 <Link to={'https://acrobat.adobe.com/id/urn:aaid:sc:EU:307b0b38-6ac2-43be-9b99-0ee8241db82e'}
-                      className={'masters_pdf'}> View Paper </Link>
-                <Link className={"masters_code"} to={"https://github.com/jacobhay2626/MSci_Project_Sustainability.git"}>
+                      className={'masters_pdf'} target={"_blank"}> View Paper </Link>
+                <Link className={"masters_code"} to={"https://github.com/jacobhay2626/MSci_Project_Sustainability.git"}
+                      target={"_blank"}>
                     Source Code
                 </Link>
             </div>

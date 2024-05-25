@@ -12,7 +12,7 @@ function Contact() {
 
             <div className={'Linked_Line'}>
                 <Link className={'linked_link'}
-                      to={'https://www.linkedin.com/in/jacob-hayward-9b1646251/'}>https://www.linkedin.com/in/jacob-hayward-9b1646251/</Link>
+                      to={'https://www.linkedin.com/in/jacob-hayward-9b1646251/'} target={"_blank"}>https://www.linkedin.com/in/jacob-hayward-9b1646251/</Link>
             </div>
         </div>);
 };
