@@ -147,7 +147,7 @@
   width: 254px;
   height: 250px;
   position: absolute;
-  right: 35vw;
+  right: 40vw;
   top: -15vh;
 }
 
@@ -173,7 +173,7 @@
 
 .RNN_v_LSTM_title{
   position: absolute;
-  left: 310px;
+  left: 43vw;
   top: 70px;
   font-size: 20px;
   text-decoration: none;
@@ -185,7 +185,7 @@
   font-size: 11px;
   width: 480px;
   position: absolute;
-  left: 310px;
+  left: 43vw;
   top: 110px;
   color: white;
 }
@@ -194,13 +194,13 @@
   font-size: 11px;
   text-decoration: none;
   position: absolute;
-  left: 310px;
+  left: 43vw;
   top: 160px;
 }
 
 .SM_tech_indicators_title{
   position: absolute;
-  left: 310px;
+  left: 43vw;
   top: 210px;
   font-size: 20px;
   text-decoration: none;
@@ -212,7 +212,7 @@
   font-size: 11px;
   width: 480px;
   position: absolute;
-  left: 310px;
+  left: 43vw;
   top: 250px;
   color: white;
 }
@@ -221,7 +221,7 @@
   font-size: 11px;
   text-decoration: none;
   position: absolute;
-  left: 310px;
+  left: 43vw;
   top: 305px;
 }
 
@@ -229,12 +229,12 @@
   font-size: 11px;
   text-decoration: none;
   position: absolute;
-  left: 310px;
+  left: 43vw;
   top: 320px;
 }
 .time_series_vis_title{
   position: absolute;
-  left: 310px;
+  left: 43vw;
   top: 350px;
   font-size: 20px;
   text-decoration: none;
@@ -246,7 +246,7 @@
   font-size: 11px;
   width: 480px;
   position: absolute;
-  left: 310px;
+  left: 43vw;
   top: 390px;
   color: white;
 }
@@ -255,13 +255,13 @@
   font-size: 11px;
   text-decoration: none;
   position: absolute;
-  left: 310px;
+  left: 43vw;
   top: 440px;
 }
 
 .trading_engine_title {
   position: absolute;
-  left: 310px;
+  left: 43vw;
   top: 490px;
   font-size: 20px;
   text-decoration: none;
@@ -273,7 +273,7 @@
   font-size: 11px;
   width: 480px;
   position: absolute;
-  left: 310px;
+  left: 43vw;
   top: 530px;
   color: white;
 }
@@ -282,7 +282,7 @@
   font-size: 11px;
   text-decoration: none;
   position: absolute;
-  left: 310px;
+  left: 43vw;
   top: 600px;
 }
 
@@ -294,7 +294,7 @@
 
 .sma_title {
   position: absolute;
-  left: 310px;
+  left: 43vw;
   top: 640px;
   font-size: 20px;
   text-decoration: none;
@@ -306,7 +306,7 @@
   font-size: 11px;
   width: 480px;
   position: absolute;
-  left: 310px;
+  left: 43vw;
   top: 670px;
   color: white;
 }
@@ -315,7 +315,7 @@
   font-size: 11px;
   text-decoration: none;
   position: absolute;
-  left: 310px;
+  left: 43vw;
   top: 740px;
 }
 
@@ -325,7 +325,7 @@
 
 .ffnn_title{
   position: absolute;
-  left: 310px;
+  left: 43vw;
   top: 780px;
   font-size: 20px;
   text-decoration: none;
@@ -337,7 +337,7 @@
   font-size: 11px;
   width: 480px;
   position: absolute;
-  left: 310px;
+  left: 43vw;
   top: 820px;
   color: white;
 }
@@ -346,7 +346,7 @@
   font-size: 11px;
   text-decoration: none;
   position: absolute;
-  left: 310px;
+  left: 43vw;
   top: 870px;
 }
 
@@ -356,7 +356,7 @@
 
 .NFT_Title_1 {
   position: absolute;
-  left: 310px;
+  left: 43vw;
   top: 920px;
   font-size: 20px;
   font-weight: 500;
@@ -367,7 +367,7 @@
   font-size: 11px;
   width: 480px;
   position: absolute;
-  left: 310px;
+  left: 43vw;
   top: 960px;
   color: white;
 }
@@ -376,7 +376,7 @@
   font-size: 11px;
   text-decoration: none;
   position: absolute;
-  left: 310px;
+  left: 43vw;
   top: 1000px;
 }
 
@@ -386,7 +386,7 @@
 
 .NFT_Title_2 {
   position: absolute;
-  left: 310px;
+  left: 43vw;
   top: 1060px;
   font-size: 20px;
   font-weight: 500;
@@ -397,7 +397,7 @@
   font-size: 11px;
   width: 480px;
   position: absolute;
-  left: 310px;
+  left: 43vw;
   top: 1100px;
   color: white;
 }
@@ -406,7 +406,7 @@
   font-size: 11px;
   text-decoration: none;
   position: absolute;
-  left: 310px;
+  left: 43vw;
   top: 1140px;
 }
 
@@ -417,7 +417,7 @@
 
 .NFT_Title_3 {
   position: absolute;
-  left: 310px;
+  left: 43vw;
   top: 1200px;
   font-size: 20px;
   font-weight: 500;
@@ -428,7 +428,7 @@
   font-size: 11px;
   width: 480px;
   position: absolute;
-  left: 310px;
+  left: 43vw;
   top: 1240px;
   color: white;
 }
@@ -437,7 +437,7 @@
   font-size: 11px;
   text-decoration: none;
   position: absolute;
-  left: 310px;
+  left: 43vw;
   top: 1290px;
 }
 
@@ -447,7 +447,7 @@
 
 .Cert_Title_1 {
   position: absolute;
-  left: 310px;
+  left: 43vw;
   top: 1350px;
   font-size: 20px;
   text-decoration: none;
@@ -459,7 +459,7 @@
   font-size: 11px;
   width: 480px;
   position: absolute;
-  left: 310px;
+  left: 43vw;
   top: 1390px;
   color: white;
 }
@@ -468,7 +468,7 @@
   font-size: 11px;
   text-decoration: none;
   position: absolute;
-  left: 310px;
+  left: 43vw;
   top: 1450px;
 }
 
@@ -478,7 +478,7 @@
 
 .Cert_Title_2 {
   position: absolute;
-  left: 310px;
+  left: 43vw;
   top: 1490px;
   font-size: 20px;
   text-decoration: none;
@@ -490,7 +490,7 @@
   font-size: 11px;
   width: 480px;
   position: absolute;
-  left: 310px;
+  left: 43vw;
   top: 1530px;
   color: white;
 }
@@ -499,7 +499,7 @@
   font-size: 11px;
   text-decoration: none;
   position: absolute;
-  left: 310px;
+  left: 43vw;
   top: 1580px;
 }
 
@@ -509,7 +509,7 @@
 
 .Cert_Title_3 {
   position: absolute;
-  left: 310px;
+  left: 43vw;
   top: 1630px;
   font-size: 20px;
   text-decoration: none;
@@ -521,7 +521,7 @@
   font-size: 11px;
   width: 480px;
   position: absolute;
-  left: 310px;
+  left: 43vw;
   top: 1670px;
   color: white;
 }
@@ -530,7 +530,7 @@
   font-size: 11px;
   text-decoration: none;
   position: absolute;
-  left: 310px;
+  left: 43vw;
   top: 1730px;
 }
 
@@ -540,7 +540,7 @@
 
 .Masters_Title {
   position: absolute;
-  left: 310px;
+  left: 43vw;
   top: 1760px;
   font-size: 20px;
   text-decoration: none;
@@ -552,7 +552,7 @@
   font-size: 11px;
   width: 480px;
   position: absolute;
-  left: 310px;
+  left: 43vw;
   top: 1800px;
   color: white;
 }
@@ -561,7 +561,7 @@
   font-size: 11px;
   text-decoration: none;
   position: absolute;
-  left: 310px;
+  left: 43vw;
   top: 1865px;
 }
 
@@ -569,7 +569,7 @@
   font-size: 11px;
   text-decoration: none;
   position: absolute;
-  left: 310px;
+  left: 43vw;
   top: 1880px;
 }
 
