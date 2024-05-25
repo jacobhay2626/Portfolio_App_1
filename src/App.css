@@ -147,7 +147,7 @@
   width: 254px;
   height: 250px;
   position: absolute;
-  right: 40vw;
+  right: 42vw;
   top: -15vh;
 }
 
@@ -174,7 +174,7 @@
 .RNN_v_LSTM_title{
   position: absolute;
   left: 43vw;
-  top: 70px;
+  top: 16vh;
   font-size: 20px;
   text-decoration: none;
   color: white;
@@ -186,7 +186,7 @@
   width: 480px;
   position: absolute;
   left: 43vw;
-  top: 110px;
+  top: 22vh;
   color: white;
 }
 
@@ -195,7 +195,7 @@
   text-decoration: none;
   position: absolute;
   left: 43vw;
-  top: 160px;
+  top: 29vh;
 }
 
 .SM_tech_indicators_title{
