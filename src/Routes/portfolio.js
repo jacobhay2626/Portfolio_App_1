@@ -27,12 +27,16 @@ function Portfolio() {
                 <div>
                     {/*<img className={"pyth_img_2"} src={PYTH_IMG} alt={"pyth"} width={90} height={100}/>*/}
                 </div>
-                <Link className={"SM_tech_indicators_title"} to={"/sm_indicators"}> Stock Market Technical
-                    Indicators</Link>
+                <h2 className={"SM_tech_indicators_title"} > Stock Market Technical
+                    Indicators</h2>
                 <p className={"SM_tech_indicators_description"}> Using a stock market dataset I investigated different
                     technical indicators which can be applied for stock market analysis.
                     Along with visualizations of the indicators, this blog post includes a description of each indicator
                     and their applicability. </p>
+
+                <Link className={'SM_tech_pdf'}
+                      to={'https://acrobat.adobe.com/id/urn:aaid:sc:EU:5d7fc369-71a4-4201-9905-0c1540e8fb09'}> View
+                    Paper </Link>
 
                 <Link className={"SM_tech_indicators_link"}
                       to={"https://github.com/jacobhay2626/SM_Technical_Indicators.git"}>Source
@@ -60,7 +64,7 @@ function Portfolio() {
                     {/*<img className={"csharp_image"} src={CSharp_IMG} alt={"cs"} width={90} height={100}/>*/}
                 </div>
                 <h2 className={"trading_engine_title"}> Trading Engine Server and Logging Library</h2>
-                <p className={"trading_engine_description"}> Using C# I developed a trading engine server with a logging
+                <p className={"trading_engine_description"}> Using C#, I developed a trading engine server with a logging
                     library. During this project i learnt about important concepts such as dependency injection,
                     logging, hosting,
                     interfaces, and the trading engine class. I chose to write my own logging library as i felt it was a
@@ -76,12 +80,14 @@ function Portfolio() {
                 <div className={"SMA_image"}>
                     {/*<img className={"sma_image"} src={NN_IMG} alt={"sma"} width={90} height={100}/>*/}
                 </div>
-                <Link className={"sma_title"} to={"/sm_analysis"}> Machine Learning in Stock Market Analysis</Link>
+                <h2 className={"sma_title"}> Machine Learning in Stock Market Analysis</h2>
                 <p className={"sma_description"}> A research paper into how Machine Learning techniques, such as SVM,
                     MLFNN, STENN, PNN,
                     GRNN, FNN, and LSTM's, have progressed. Includes a literature review on past examples
                     where they have been used in stock market analysis , and a description of
                     the methodologies for each technique.</p>
+                <Link to={'https://acrobat.adobe.com/id/urn:aaid:sc:EU:2fe9275b-787b-4ac0-8740-512b8b12e559'}
+                      className={'sma_pdf'}> View Paper </Link>
             </div>
 
 
@@ -89,12 +95,14 @@ function Portfolio() {
                 <div className={"FFNN_image"}>
                     {/*<img className={"ffnn_image"} src={NN_IMG} alt={"ffnn"} width={90} height={100}/>*/}
                 </div>
-                <Link className={"ffnn_title"} to={"/ffnn_deriv"}> Mathematical Derivation of Feed-Forward Neural
-                    Networks</Link>
+                <h2 className={"ffnn_title"}> Mathematical Derivation of Feed-Forward Neural
+                    Networks</h2>
                 <p className={"ffnn_description"}>
                     A complete derivation of the mathematics behind feed-forward neural
                     networks including forward propagation, cost functions, and back
                     propagation </p>
+                <Link to={'https://acrobat.adobe.com/id/urn:aaid:sc:EU:2d9171ea-7a74-4573-849b-e1f3d7756be7'}
+                      className={'ffnn_pdf'}> View Paper</Link>
             </div>
 
 
@@ -142,13 +150,15 @@ function Portfolio() {
                 <div className={"Cert_Image_1"}>
                     {/*<img className={"cert_image_1"} src={CERT_IMG} alt={"cert"} width={90} height={100}/>*/}
                 </div>
-                <Link className={"Cert_Title_1"} to={"/ML_pyth_cert"}> Machine Learning with Python </Link>
+                <h2 className={"Cert_Title_1"}> Machine Learning with Python </h2>
                 <p className={"Cert_1_description"}>
                     Online course authorised by IBM including the deployment of machine
                     learning algorithms, implementing supervised and unsupervised machine
                     learning models using SciPy and ScikitLearn, and building deep learning
                     models using Keras, PyTorch, and TensorFlow.
                 </p>
+                <Link to={'https://acrobat.adobe.com/id/urn:aaid:sc:EU:7d6da147-575d-4d3b-87e5-9af10d15b12b'}
+                      className={"ML_pyth_pdf"}> View Certificate </Link>
             </div>
 
 
@@ -156,11 +166,14 @@ function Portfolio() {
                 <div className={"Cert_Image_2"}>
                     {/*<img className={"cert_image_2"} src={CERT_IMG} alt={"cert"} width={90} height={100}/>*/}
                 </div>
-                <Link className={"Cert_Title_2"} to={"/NN_DL_cert"}> Neural Networks and Deep Learning </Link>
+                <h2 className={"Cert_Title_2"}> Neural Networks and Deep Learning </h2>
                 <p className={"Cert_2_description"}>
                     Foundational concepts of neural networks and deep learning, along with
                     implementing efficient, vectorized, neural networks.
                 </p>
+
+                <Link to={'https://acrobat.adobe.com/id/urn:aaid:sc:EU:baa45193-4918-47f5-820e-aea46e7e7bb1'}
+                      className={"NN_DL_pdf"}> View Certificate </Link>
             </div>
 
 
@@ -168,26 +181,30 @@ function Portfolio() {
                 <div className={"Cert_Image_3"}>
                     {/*<img className={"cert_image_3"} src={CERT_IMG} alt={"cert"} width={90} height={100}/>*/}
                 </div>
-                <Link className={"Cert_Title_3"} to={"/Math_ML_cert"}> Mathematics for Machine Learning
-                    Specialization </Link>
+                <h2 className={"Cert_Title_3"}> Mathematics for Machine Learning
+                    Specialization </h2>
                 <p className={"Cert_3_description"}>
                     A three course specialization including: 'Linear ALgrebra for Machine Learning
                     and Data Science', 'Calculus for Machine Learning and Data Science', and 'Probability
                     & Statistics for Machine Learning and Data Science'.
                 </p>
+                <Link to={'https://acrobat.adobe.com/id/urn:aaid:sc:EU:a7d01b2a-9c77-4790-9a90-03bc661d5a59'}
+                      className={"Math_ML_pdf"}> View Certificate </Link>
             </div>
 
             <div className={"Masters_Proj"}>
                 <div className={"Nott_Image"}>
                     {/*<img className={"nott_image"} src={NOTT_IMG} alt={"masters"} width={90} height={100}/>*/}
                 </div>
-                <Link className={"Masters_Title"} to={"/masters_proj"}> Labelling solvents using green chemistry
-                    principles </Link>
+                <h2 className={"Masters_Title"}> Labelling solvents using green chemistry
+                    principles </h2>
                 <p className={"Masters_description"}>
                     A collection of classification and regression machine learning models built to predict a score of
                     recommended, problematic, or hazardous for a dataset of solvents used in industry. The models were
                     then tested on an external dataset using a new set of solvents common in industry.
                 </p>
+                <Link to={'https://acrobat.adobe.com/id/urn:aaid:sc:EU:307b0b38-6ac2-43be-9b99-0ee8241db82e'}
+                      className={'masters_pdf'}> View Paper </Link>
                 <Link className={"masters_code"} to={"https://github.com/jacobhay2626/MSci_Project_Sustainability.git"}>
                     Source Code
                 </Link>

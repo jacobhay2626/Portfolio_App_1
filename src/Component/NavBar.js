@@ -1,6 +1,6 @@
 import {Link} from "react-router-dom";
 import {Navbar} from "react-bootstrap";
-// import PROFILE from '../Assets/profile.jpg'
+import PROFILE from '../Assets/profile.PNG'
 
 
 function NavBar() {
@@ -10,7 +10,7 @@ function NavBar() {
                 <Navbar className={"Nav_Bar"}>
 
                     <div className={"Logo_Link"}>
-                        {/*<img src={PROFILE} alt={"profile"} className={"logo"}/>*/}
+                        <img src={PROFILE} alt={"profile"} className={"logo"}/>
                     </div>
 
                     <div className={"Home_Link"}>
