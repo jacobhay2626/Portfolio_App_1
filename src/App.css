@@ -171,10 +171,39 @@
 
 /**************************** PORTFOLIO PAGE ********************************/
 
-.RNN_v_LSTM_title{
+
+.SQL_fundamentals_title{
   position: absolute;
   left: 43vw;
   top: 100px;
+  font-size: 20px;
+  text-decoration: none;
+  color: white;
+  font-weight: 500;
+}
+
+.SQL_description{
+  font-size: 11px;
+  width: 480px;
+  position: absolute;
+  left: 43vw;
+  top: 140px;
+  color: white;
+}
+
+.SQL_link{
+  font-size: 11px;
+  text-decoration: none;
+  position: absolute;
+  left: 43vw;
+  top: 190px;
+}
+
+
+.RNN_v_LSTM_title{
+  position: absolute;
+  left: 43vw;
+  top: 200px;
   font-size: 20px;
   text-decoration: none;
   color: white;
@@ -186,7 +215,7 @@
   width: 480px;
   position: absolute;
   left: 43vw;
-  top: 140px;
+  top: 240px;
   color: white;
 }
 
@@ -195,13 +224,13 @@
   text-decoration: none;
   position: absolute;
   left: 43vw;
-  top: 190px;
+  top: 290px;
 }
 
 .SM_tech_indicators_title{
   position: absolute;
   left: 43vw;
-  top: 210px;
+  top: 310px;
   font-size: 20px;
   text-decoration: none;
   color: white;
@@ -213,7 +242,7 @@
   width: 480px;
   position: absolute;
   left: 43vw;
-  top: 250px;
+  top: 350px;
   color: white;
 }
 
@@ -222,7 +251,7 @@
   text-decoration: none;
   position: absolute;
   left: 43vw;
-  top: 305px;
+  top: 405px;
 }
 
 .SM_tech_pdf{
@@ -230,12 +259,12 @@
   text-decoration: none;
   position: absolute;
   left: 43vw;
-  top: 320px;
+  top: 420px;
 }
 .time_series_vis_title{
   position: absolute;
   left: 43vw;
-  top: 350px;
+  top: 450px;
   font-size: 20px;
   text-decoration: none;
   color: white;
@@ -247,7 +276,7 @@
   width: 480px;
   position: absolute;
   left: 43vw;
-  top: 390px;
+  top: 490px;
   color: white;
 }
 
@@ -256,13 +285,13 @@
   text-decoration: none;
   position: absolute;
   left: 43vw;
-  top: 440px;
+  top: 540px;
 }
 
 .trading_engine_title {
   position: absolute;
   left: 43vw;
-  top: 490px;
+  top: 590px;
   font-size: 20px;
   text-decoration: none;
   color: white;
@@ -274,7 +303,7 @@
   width: 480px;
   position: absolute;
   left: 43vw;
-  top: 530px;
+  top: 630px;
   color: white;
 }
 
@@ -283,7 +312,7 @@
   text-decoration: none;
   position: absolute;
   left: 43vw;
-  top: 600px;
+  top: 700px;
 }
 
 
@@ -295,7 +324,7 @@
 .sma_title {
   position: absolute;
   left: 43vw;
-  top: 640px;
+  top: 740px;
   font-size: 20px;
   text-decoration: none;
   color: white;
@@ -307,7 +336,7 @@
   width: 480px;
   position: absolute;
   left: 43vw;
-  top: 670px;
+  top: 770px;
   color: white;
 }
 
@@ -316,7 +345,7 @@
   text-decoration: none;
   position: absolute;
   left: 43vw;
-  top: 740px;
+  top: 840px;
 }
 
 .FFNN_Deriv {
@@ -326,7 +355,7 @@
 .ffnn_title{
   position: absolute;
   left: 43vw;
-  top: 780px;
+  top: 880px;
   font-size: 20px;
   text-decoration: none;
   color: white;
@@ -338,7 +367,7 @@
   width: 480px;
   position: absolute;
   left: 43vw;
-  top: 820px;
+  top: 920px;
   color: white;
 }
 
@@ -347,7 +376,7 @@
   text-decoration: none;
   position: absolute;
   left: 43vw;
-  top: 870px;
+  top: 970px;
 }
 
 .NFT_Lottery{
@@ -357,7 +386,7 @@
 .NFT_Title_1 {
   position: absolute;
   left: 43vw;
-  top: 920px;
+  top: 1020px;
   font-size: 20px;
   font-weight: 500;
   color: white;
@@ -368,7 +397,7 @@
   width: 480px;
   position: absolute;
   left: 43vw;
-  top: 960px;
+  top: 1060px;
   color: white;
 }
 
@@ -377,7 +406,7 @@
   text-decoration: none;
   position: absolute;
   left: 43vw;
-  top: 1000px;
+  top: 1100px;
 }
 
 .NFT_Basic{
@@ -387,7 +416,7 @@
 .NFT_Title_2 {
   position: absolute;
   left: 43vw;
-  top: 1060px;
+  top: 1160px;
   font-size: 20px;
   font-weight: 500;
   color: white;
@@ -398,7 +427,7 @@
   width: 480px;
   position: absolute;
   left: 43vw;
-  top: 1100px;
+  top: 1200px;
   color: white;
 }
 
@@ -407,7 +436,7 @@
   text-decoration: none;
   position: absolute;
   left: 43vw;
-  top: 1140px;
+  top: 1240px;
 }
 
 
@@ -418,7 +447,7 @@
 .NFT_Title_3 {
   position: absolute;
   left: 43vw;
-  top: 1200px;
+  top: 1300px;
   font-size: 20px;
   font-weight: 500;
   color: white;
@@ -429,7 +458,7 @@
   width: 480px;
   position: absolute;
   left: 43vw;
-  top: 1240px;
+  top: 1340px;
   color: white;
 }
 
@@ -438,7 +467,7 @@
   text-decoration: none;
   position: absolute;
   left: 43vw;
-  top: 1290px;
+  top: 1390px;
 }
 
 .ML_Python_cert{
@@ -448,7 +477,7 @@
 .Cert_Title_1 {
   position: absolute;
   left: 43vw;
-  top: 1350px;
+  top: 1450px;
   font-size: 20px;
   text-decoration: none;
   color: white;
@@ -460,7 +489,7 @@
   width: 480px;
   position: absolute;
   left: 43vw;
-  top: 1390px;
+  top: 1490px;
   color: white;
 }
 
@@ -469,7 +498,7 @@
   text-decoration: none;
   position: absolute;
   left: 43vw;
-  top: 1450px;
+  top: 1550px;
 }
 
 .NN_DL_cert{
@@ -479,7 +508,7 @@
 .Cert_Title_2 {
   position: absolute;
   left: 43vw;
-  top: 1490px;
+  top: 1590px;
   font-size: 20px;
   text-decoration: none;
   color: white;
@@ -491,7 +520,7 @@
   width: 480px;
   position: absolute;
   left: 43vw;
-  top: 1530px;
+  top: 1630px;
   color: white;
 }
 
@@ -500,7 +529,7 @@
   text-decoration: none;
   position: absolute;
   left: 43vw;
-  top: 1580px;
+  top: 1680px;
 }
 
 .Math_ML_cert{
@@ -510,7 +539,7 @@
 .Cert_Title_3 {
   position: absolute;
   left: 43vw;
-  top: 1630px;
+  top: 1730px;
   font-size: 20px;
   text-decoration: none;
   color: white;
@@ -522,7 +551,7 @@
   width: 480px;
   position: absolute;
   left: 43vw;
-  top: 1670px;
+  top: 1770px;
   color: white;
 }
 
@@ -531,7 +560,7 @@
   text-decoration: none;
   position: absolute;
   left: 43vw;
-  top: 1730px;
+  top: 1830px;
 }
 
 .Masters_Proj{
@@ -541,7 +570,7 @@
 .Masters_Title {
   position: absolute;
   left: 43vw;
-  top: 1760px;
+  top: 1860px;
   font-size: 20px;
   text-decoration: none;
   color: white;
@@ -553,7 +582,7 @@
   width: 480px;
   position: absolute;
   left: 43vw;
-  top: 1800px;
+  top: 1900px;
   color: white;
 }
 
@@ -562,7 +591,7 @@
   text-decoration: none;
   position: absolute;
   left: 43vw;
-  top: 1865px;
+  top: 1965px;
 }
 
 .masters_pdf{
@@ -570,7 +599,7 @@
   text-decoration: none;
   position: absolute;
   left: 43vw;
-  top: 1880px;
+  top: 1980px;
 }
 
 /*********************************** Contact Page *********************************/

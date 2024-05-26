@@ -10,10 +10,18 @@ function Portfolio() {
     return (
         <div className={"Portfolio_Page"}>
 
+
+            <div className={"SQL_fundamentals"}>
+                <h2 className={"SQL_fundamentals_title"}> SQL Fundamentals </h2>
+                <p className={'SQL_description'}> Using fundamental concepts in SQL, I analysed three datasets describing schools, crime statistics
+                    and census data in Chicago. Techniques used include: Group by, Order by, Like, Sub Queries and
+                    Nested Selects.</p>
+                <Link className={"SQL_link"}
+                      to={"https://github.com/jacobhay2626/SQL_Fundamentals"} target={"_blank"}>Source
+                    Code</Link>
+            </div>
+
             <div className={"LSTM_v_RNN"}>
-                <div>
-                    {/*<img className={"pyth_img_3"} src={PYTH_IMG} alt={"pyth"} width={90} height={100}/>*/}
-                </div>
                 <h2 className={"RNN_v_LSTM_title"}> LSTM vs RNN on historical Bitcoin dataset</h2>
                 <p className={"RNN_v_LSTM_description"}> Using a historical Bitcoin dataset I compared
                     the performance of a LSTM model to a RNN model for forecasting.</p>
