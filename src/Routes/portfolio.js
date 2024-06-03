@@ -10,10 +10,19 @@ function Portfolio() {
     return (
         <div className={"Portfolio_Page"}>
 
+            <div className={"MatrixBasics"}>
+                <h2 className={"MatrixBasics_title"}> - Basic Matrix Operations </h2>
+                <p className={'MatrixBasics_description'}> Created a function for matrix row reductions and determining
+                    the singularity of a matrix.</p>
+                <Link className={"MatrixBasics_link"}
+                      to={"https://github.com/jacobhay2626/SQL_Fundamentals"} target={"_blank"}>Source
+                    Code</Link>
+            </div>
+
             <div className={"GramSchmidt"}>
                 <h2 className={"GramSchmidt_title"}> - Gram-Schmidt Process </h2>
                 <p className={'GramSchmidt_description'}> Using the Gram-Schmidt Process to form an orthonormal basis of
-                    a space spanned by a given set of vectors. .</p>
+                    a space spanned by a given set of vectors.</p>
                 <Link className={"GramSchmidt_link"}
                       to={"https://github.com/jacobhay2626/SQL_Fundamentals"} target={"_blank"}>Source
                     Code</Link>
