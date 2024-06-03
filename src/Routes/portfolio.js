@@ -10,10 +10,21 @@ function Portfolio() {
     return (
         <div className={"Portfolio_Page"}>
 
+            <div className={"DB2-Cloud"}>
+                <h2 className={"DB2-Cloud_title"}> - DB2 Cloud Database</h2>
+                <p className={'DB2-Cloud_description'}> Following the SQL fundamentals project, I used a DB2 Cloud
+                    database to create a dataset describing footballers in europe, including their wages, team, league,
+                    and age. .</p>
+                <Link className={"DB2-Cloud_link"}
+                      to={"https://github.com/jacobhay2626/SQL_Fundamentals"} target={"_blank"}>Source
+                    Code</Link>
+            </div>
+
 
             <div className={"SQL_fundamentals"}>
                 <h2 className={"SQL_fundamentals_title"}> - SQL Fundamentals </h2>
-                <p className={'SQL_description'}> Using fundamental concepts in SQL, I analysed three datasets describing schools, crime statistics
+                <p className={'SQL_description'}> Using fundamental concepts in SQL, I analysed three datasets
+                    describing schools, crime statistics
                     and census data in Chicago. Techniques used include: Group by, Order by, Like, Sub Queries and
                     Nested Selects.</p>
                 <Link className={"SQL_link"}

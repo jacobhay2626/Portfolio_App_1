@@ -176,6 +176,33 @@
 
 
 
+.DB2-Cloud_title{
+  position: absolute;
+  left: 40vw;
+  top: 270px;
+  font-size: 25px;
+  text-decoration: none;
+  color: white;
+  font-weight: 500;
+}
+
+.DB2-Cloud_description{
+  font-size: 16px;
+  width: 480px;
+  font-style: italic;
+  position: absolute;
+  left: 40vw;
+  top: 320px;
+  color: white;
+}
+
+.DB2-Cloud_link{
+  font-size: 16px;
+  color: white;
+  position: absolute;
+  left: 40vw;
+  top: 400px;
+}
 
 .SQL_fundamentals_title{
   position: absolute;
