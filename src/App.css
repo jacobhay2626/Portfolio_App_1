@@ -77,18 +77,21 @@
   width: 25px;
   height: 5px;
   text-align: justify;
+  font-size: xx-large;
 }
 
 .Port_Link{
   position: absolute;
   right: 50vw;
   top: 15px;
+  font-size: xx-large;
 }
 
 .Contact_Link{
   position: absolute;
   right: 25vw;
   top: 15px;
+  font-size: xx-large;
 }
 
 .logo{
@@ -172,22 +175,24 @@
 /**************************** PORTFOLIO PAGE ********************************/
 
 
+
+
 .SQL_fundamentals_title{
   position: absolute;
-  left: 43vw;
-  top: 100px;
-  font-size: 20px;
+  left: 40vw;
+  top: 310px;
+  font-size: 25px;
   text-decoration: none;
   color: white;
   font-weight: 500;
 }
 
 .SQL_description{
-  font-size: 11px;
+  font-size: 13px;
   width: 480px;
   position: absolute;
-  left: 43vw;
-  top: 140px;
+  left: 40vw;
+  top: 350px;
   color: white;
 }
 
@@ -195,16 +200,16 @@
   font-size: 11px;
   text-decoration: none;
   position: absolute;
-  left: 43vw;
-  top: 190px;
+  left: 40vw;
+  top: 400px;
 }
 
 
 .RNN_v_LSTM_title{
   position: absolute;
-  left: 43vw;
-  top: 200px;
-  font-size: 20px;
+  left: 40vw;
+  top: 410px;
+  font-size: 25px;
   text-decoration: none;
   color: white;
   font-weight: 500;
@@ -212,10 +217,10 @@
 
 .RNN_v_LSTM_description{
   font-size: 11px;
-  width: 480px;
+  width: 690px;
   position: absolute;
-  left: 43vw;
-  top: 240px;
+  left: 40vw;
+  top: 450px;
   color: white;
 }
 
@@ -223,15 +228,15 @@
   font-size: 11px;
   text-decoration: none;
   position: absolute;
-  left: 43vw;
-  top: 290px;
+  left: 40vw;
+  top: 500px;
 }
 
 .SM_tech_indicators_title{
   position: absolute;
-  left: 43vw;
-  top: 310px;
-  font-size: 20px;
+  left: 40vw;
+  top: 520px;
+  font-size: 25px;
   text-decoration: none;
   color: white;
   font-weight: 500;
@@ -241,8 +246,8 @@
   font-size: 11px;
   width: 480px;
   position: absolute;
-  left: 43vw;
-  top: 350px;
+  left: 40vw;
+  top: 560px;
   color: white;
 }
 
@@ -250,22 +255,22 @@
   font-size: 11px;
   text-decoration: none;
   position: absolute;
-  left: 43vw;
-  top: 405px;
+  left: 40vw;
+  top: 615px;
 }
 
 .SM_tech_pdf{
   font-size: 11px;
   text-decoration: none;
   position: absolute;
-  left: 43vw;
-  top: 420px;
+  left: 40vw;
+  top: 630px;
 }
 .time_series_vis_title{
   position: absolute;
-  left: 43vw;
-  top: 450px;
-  font-size: 20px;
+  left: 40vw;
+  top: 660px;
+  font-size: 25px;
   text-decoration: none;
   color: white;
   font-weight: 500;
@@ -275,8 +280,8 @@
   font-size: 11px;
   width: 480px;
   position: absolute;
-  left: 43vw;
-  top: 490px;
+  left: 40vw;
+  top: 700px;
   color: white;
 }
 
@@ -284,15 +289,15 @@
   font-size: 11px;
   text-decoration: none;
   position: absolute;
-  left: 43vw;
-  top: 540px;
+  left: 40vw;
+  top: 750px;
 }
 
 .trading_engine_title {
   position: absolute;
-  left: 43vw;
-  top: 590px;
-  font-size: 20px;
+  left: 40vw;
+  top: 800px;
+  font-size: 25px;
   text-decoration: none;
   color: white;
   font-weight: 500;
@@ -302,8 +307,8 @@
   font-size: 11px;
   width: 480px;
   position: absolute;
-  left: 43vw;
-  top: 630px;
+  left: 40vw;
+  top: 840px;
   color: white;
 }
 
@@ -311,8 +316,8 @@
   font-size: 11px;
   text-decoration: none;
   position: absolute;
-  left: 43vw;
-  top: 700px;
+  left: 40vw;
+  top: 910px;
 }
 
 
@@ -323,29 +328,30 @@
 
 .sma_title {
   position: absolute;
-  left: 43vw;
-  top: 740px;
-  font-size: 20px;
+  left: 40vw;
+  top: 1290px;
+  font-size: 25px;
   text-decoration: none;
   color: white;
   font-weight: 500;
 }
 
 .sma_description{
-  font-size: 11px;
+  font-size: 16px;
   width: 480px;
   position: absolute;
-  left: 43vw;
-  top: 770px;
+  left: 40vw;
+  top: 1330px;
   color: white;
 }
 
 .sma_pdf{
-  font-size: 11px;
-  text-decoration: none;
+  font-size: 16px;
   position: absolute;
-  left: 43vw;
-  top: 840px;
+  left: 40vw;
+  top: 1450px;
+  color: white;
+
 }
 
 .FFNN_Deriv {
@@ -354,29 +360,29 @@
 
 .ffnn_title{
   position: absolute;
-  left: 43vw;
-  top: 880px;
-  font-size: 20px;
+  left: 40vw;
+  top: 1490px;
+  font-size: 25px;
   text-decoration: none;
   color: white;
   font-weight: 500;
 }
 
 .ffnn_description {
-  font-size: 11px;
+  font-size: 16px;
   width: 480px;
   position: absolute;
-  left: 43vw;
-  top: 920px;
+  left: 40vw;
+  top: 1530px;
   color: white;
 }
 
 .ffnn_pdf{
-  font-size: 11px;
-  text-decoration: none;
+  font-size: 16px;
   position: absolute;
-  left: 43vw;
-  top: 970px;
+  left: 40vw;
+  top: 1610px;
+  color: white;
 }
 
 .NFT_Lottery{
@@ -385,28 +391,28 @@
 
 .NFT_Title_1 {
   position: absolute;
-  left: 43vw;
-  top: 1020px;
-  font-size: 20px;
+  left: 40vw;
+  top: 1650px;
+  font-size: 25px;
   font-weight: 500;
   color: white;
 }
 
 .NFT_Lottery_description {
-  font-size: 11px;
+  font-size: 16px;
   width: 480px;
   position: absolute;
-  left: 43vw;
-  top: 1060px;
+  left: 40vw;
+  top: 1690px;
   color: white;
 }
 
 .NFT_Link_1 {
-  font-size: 11px;
-  text-decoration: none;
+  font-size: 16px;
+  color: white;
   position: absolute;
-  left: 43vw;
-  top: 1100px;
+  left: 40vw;
+  top: 1730px;
 }
 
 .NFT_Basic{
@@ -415,28 +421,28 @@
 
 .NFT_Title_2 {
   position: absolute;
-  left: 43vw;
-  top: 1160px;
-  font-size: 20px;
+  left: 40vw;
+  top: 1770px;
+  font-size: 25px;
   font-weight: 500;
   color: white;
 }
 
 .NFT_Basic_description {
-  font-size: 11px;
+  font-size: 16px;
   width: 480px;
   position: absolute;
-  left: 43vw;
-  top: 1200px;
+  left: 40vw;
+  top: 1810px;
   color: white;
 }
 
 .NFT_Link_2 {
-  font-size: 11px;
-  text-decoration: none;
+  font-size: 16px;
+  color: white;
   position: absolute;
-  left: 43vw;
-  top: 1240px;
+  left: 40vw;
+  top: 1870px;
 }
 
 
@@ -446,122 +452,122 @@
 
 .NFT_Title_3 {
   position: absolute;
-  left: 43vw;
-  top: 1300px;
-  font-size: 20px;
+  left: 40vw;
+  top: 1910px;
+  font-size: 25px;
   font-weight: 500;
   color: white;
 }
 
 .NFT_Website_description {
-  font-size: 11px;
+  font-size: 16px;
   width: 480px;
   position: absolute;
-  left: 43vw;
-  top: 1340px;
+  left: 40vw;
+  top: 1950px;
   color: white;
 }
 
 .NFT_Link_3 {
-  font-size: 11px;
-  text-decoration: none;
-  position: absolute;
-  left: 43vw;
-  top: 1390px;
-}
-
-.ML_Python_cert{
-  width: fit-content;
-}
-
-.Cert_Title_1 {
-  position: absolute;
-  left: 43vw;
-  top: 1450px;
-  font-size: 20px;
-  text-decoration: none;
+  font-size: 16px;
   color: white;
-  font-weight: 500;
-}
-
-.Cert_1_description {
-  font-size: 11px;
-  width: 480px;
   position: absolute;
-  left: 43vw;
-  top: 1490px;
-  color: white;
+  left: 40vw;
+  top: 2040px;
 }
 
-.ML_pyth_pdf{
-  font-size: 11px;
-  text-decoration: none;
-  position: absolute;
-  left: 43vw;
-  top: 1550px;
-}
+/*.ML_Python_cert{*/
+/*  width: fit-content;*/
+/*}*/
 
-.NN_DL_cert{
-  width: fit-content;
-}
+/*.Cert_Title_1 {*/
+/*  position: absolute;*/
+/*  left: 43vw;*/
+/*  top: 1660px;*/
+/*  font-size: 20px;*/
+/*  text-decoration: none;*/
+/*  color: white;*/
+/*  font-weight: 500;*/
+/*}*/
 
-.Cert_Title_2 {
-  position: absolute;
-  left: 43vw;
-  top: 1590px;
-  font-size: 20px;
-  text-decoration: none;
-  color: white;
-  font-weight: 500;
-}
+/*.Cert_1_description {*/
+/*  font-size: 11px;*/
+/*  width: 480px;*/
+/*  position: absolute;*/
+/*  left: 43vw;*/
+/*  top: 1700px;*/
+/*  color: white;*/
+/*}*/
 
-.Cert_2_description {
-  font-size: 11px;
-  width: 480px;
-  position: absolute;
-  left: 43vw;
-  top: 1630px;
-  color: white;
-}
+/*.ML_pyth_pdf{*/
+/*  font-size: 11px;*/
+/*  text-decoration: none;*/
+/*  position: absolute;*/
+/*  left: 43vw;*/
+/*  top: 1760px;*/
+/*}*/
 
-.NN_DL_pdf{
-  font-size: 11px;
-  text-decoration: none;
-  position: absolute;
-  left: 43vw;
-  top: 1680px;
-}
+/*.NN_DL_cert{*/
+/*  width: fit-content;*/
+/*}*/
 
-.Math_ML_cert{
-  width: fit-content;
-}
+/*.Cert_Title_2 {*/
+/*  position: absolute;*/
+/*  left: 43vw;*/
+/*  top: 1800px;*/
+/*  font-size: 20px;*/
+/*  text-decoration: none;*/
+/*  color: white;*/
+/*  font-weight: 500;*/
+/*}*/
 
-.Cert_Title_3 {
-  position: absolute;
-  left: 43vw;
-  top: 1730px;
-  font-size: 20px;
-  text-decoration: none;
-  color: white;
-  font-weight: 500;
-}
+/*.Cert_2_description {*/
+/*  font-size: 11px;*/
+/*  width: 480px;*/
+/*  position: absolute;*/
+/*  left: 43vw;*/
+/*  top: 1840px;*/
+/*  color: white;*/
+/*}*/
 
-.Cert_3_description {
-  font-size: 11px;
-  width: 480px;
-  position: absolute;
-  left: 43vw;
-  top: 1770px;
-  color: white;
-}
+/*.NN_DL_pdf{*/
+/*  font-size: 11px;*/
+/*  text-decoration: none;*/
+/*  position: absolute;*/
+/*  left: 43vw;*/
+/*  top: 1890px;*/
+/*}*/
 
-.Math_ML_pdf{
-  font-size: 11px;
-  text-decoration: none;
-  position: absolute;
-  left: 43vw;
-  top: 1830px;
-}
+/*.Math_ML_cert{*/
+/*  width: fit-content;*/
+/*}*/
+
+/*.Cert_Title_3 {*/
+/*  position: absolute;*/
+/*  left: 43vw;*/
+/*  top: 1940px;*/
+/*  font-size: 20px;*/
+/*  text-decoration: none;*/
+/*  color: white;*/
+/*  font-weight: 500;*/
+/*}*/
+
+/*.Cert_3_description {*/
+/*  font-size: 11px;*/
+/*  width: 480px;*/
+/*  position: absolute;*/
+/*  left: 43vw;*/
+/*  top: 1980px;*/
+/*  color: white;*/
+/*}*/
+
+/*.Math_ML_pdf{*/
+/*  font-size: 11px;*/
+/*  text-decoration: none;*/
+/*  position: absolute;*/
+/*  left: 43vw;*/
+/*  top: 2040px;*/
+/*}*/
 
 .Masters_Proj{
   width: fit-content;
@@ -569,37 +575,37 @@
 
 .Masters_Title {
   position: absolute;
-  left: 43vw;
-  top: 1860px;
-  font-size: 20px;
+  left: 40vw;
+  top: 2070px;
+  font-size: 25px;
   text-decoration: none;
   color: white;
   font-weight: 500;
 }
 
 .Masters_description {
-  font-size: 11px;
+  font-size: 16px;
   width: 480px;
   position: absolute;
-  left: 43vw;
-  top: 1900px;
+  left: 40vw;
+  top: 2110px;
   color: white;
 }
 
 .masters_code{
-  font-size: 11px;
-  text-decoration: none;
+  font-size: 15px;
+  color: white;
   position: absolute;
-  left: 43vw;
-  top: 1965px;
+  left: 40vw;
+  top: 2230px;
 }
 
 .masters_pdf{
-  font-size: 11px;
-  text-decoration: none;
+  font-size: 16px;
+  color: white;
   position: absolute;
-  left: 43vw;
-  top: 1980px;
+  left: 40vw;
+  top: 2250px;
 }
 
 /*********************************** Contact Page *********************************/

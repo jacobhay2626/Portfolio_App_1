@@ -160,51 +160,51 @@ function Portfolio() {
             </div>
 
 
-            <div className={"ML_Python_cert"}>
-                <div className={"Cert_Image_1"}>
-                    {/*<img className={"cert_image_1"} src={CERT_IMG} alt={"cert"} width={90} height={100}/>*/}
-                </div>
-                <h2 className={"Cert_Title_1"}> Machine Learning with Python </h2>
-                <p className={"Cert_1_description"}>
-                    Online course authorised by IBM including the deployment of machine
-                    learning algorithms, implementing supervised and unsupervised machine
-                    learning models using SciPy and ScikitLearn, and building deep learning
-                    models using Keras, PyTorch, and TensorFlow.
-                </p>
-                <Link to={'https://acrobat.adobe.com/id/urn:aaid:sc:EU:7d6da147-575d-4d3b-87e5-9af10d15b12b'}
-                      className={"ML_pyth_pdf"} target={"_blank"}> View Certificate </Link>
-            </div>
+            {/*<div className={"ML_Python_cert"}>*/}
+            {/*    <div className={"Cert_Image_1"}>*/}
+            {/*        /!*<img className={"cert_image_1"} src={CERT_IMG} alt={"cert"} width={90} height={100}/>*!/*/}
+            {/*    </div>*/}
+            {/*    <h2 className={"Cert_Title_1"}> Machine Learning with Python </h2>*/}
+            {/*    <p className={"Cert_1_description"}>*/}
+            {/*        Online course authorised by IBM including the deployment of machine*/}
+            {/*        learning algorithms, implementing supervised and unsupervised machine*/}
+            {/*        learning models using SciPy and ScikitLearn, and building deep learning*/}
+            {/*        models using Keras, PyTorch, and TensorFlow.*/}
+            {/*    </p>*/}
+            {/*    <Link to={'https://acrobat.adobe.com/id/urn:aaid:sc:EU:7d6da147-575d-4d3b-87e5-9af10d15b12b'}*/}
+            {/*          className={"ML_pyth_pdf"} target={"_blank"}> View Certificate </Link>*/}
+            {/*</div>*/}
 
 
-            <div className={"NN_DL_Cert"}>
-                <div className={"Cert_Image_2"}>
-                    {/*<img className={"cert_image_2"} src={CERT_IMG} alt={"cert"} width={90} height={100}/>*/}
-                </div>
-                <h2 className={"Cert_Title_2"}> Neural Networks and Deep Learning </h2>
-                <p className={"Cert_2_description"}>
-                    Foundational concepts of neural networks and deep learning, along with
-                    implementing efficient, vectorized, neural networks.
-                </p>
+            {/*<div className={"NN_DL_Cert"}>*/}
+            {/*    <div className={"Cert_Image_2"}>*/}
+            {/*        /!*<img className={"cert_image_2"} src={CERT_IMG} alt={"cert"} width={90} height={100}/>*!/*/}
+            {/*    </div>*/}
+            {/*    <h2 className={"Cert_Title_2"}> Neural Networks and Deep Learning </h2>*/}
+            {/*    <p className={"Cert_2_description"}>*/}
+            {/*        Foundational concepts of neural networks and deep learning, along with*/}
+            {/*        implementing efficient, vectorized, neural networks.*/}
+            {/*    </p>*/}
 
-                <Link to={'https://acrobat.adobe.com/id/urn:aaid:sc:EU:baa45193-4918-47f5-820e-aea46e7e7bb1'}
-                      className={"NN_DL_pdf"} target={"_blank"}> View Certificate </Link>
-            </div>
+            {/*    <Link to={'https://acrobat.adobe.com/id/urn:aaid:sc:EU:baa45193-4918-47f5-820e-aea46e7e7bb1'}*/}
+            {/*          className={"NN_DL_pdf"} target={"_blank"}> View Certificate </Link>*/}
+            {/*</div>*/}
 
 
-            <div className={"Math_ML_cert"}>
-                <div className={"Cert_Image_3"}>
-                    {/*<img className={"cert_image_3"} src={CERT_IMG} alt={"cert"} width={90} height={100}/>*/}
-                </div>
-                <h2 className={"Cert_Title_3"}> Mathematics for Machine Learning
-                    Specialization </h2>
-                <p className={"Cert_3_description"}>
-                    A three course specialization including: 'Linear ALgrebra for Machine Learning
-                    and Data Science', 'Calculus for Machine Learning and Data Science', and 'Probability
-                    & Statistics for Machine Learning and Data Science'.
-                </p>
-                <Link to={'https://acrobat.adobe.com/id/urn:aaid:sc:EU:a7d01b2a-9c77-4790-9a90-03bc661d5a59'}
-                      className={"Math_ML_pdf"} target={"_blank"}> View Certificate </Link>
-            </div>
+            {/*<div className={"Math_ML_cert"}>*/}
+            {/*    <div className={"Cert_Image_3"}>*/}
+            {/*        /!*<img className={"cert_image_3"} src={CERT_IMG} alt={"cert"} width={90} height={100}/>*!/*/}
+            {/*    </div>*/}
+            {/*    <h2 className={"Cert_Title_3"}> Mathematics for Machine Learning*/}
+            {/*        Specialization </h2>*/}
+            {/*    <p className={"Cert_3_description"}>*/}
+            {/*        A three course specialization including: 'Linear ALgrebra for Machine Learning*/}
+            {/*        and Data Science', 'Calculus for Machine Learning and Data Science', and 'Probability*/}
+            {/*        & Statistics for Machine Learning and Data Science'.*/}
+            {/*    </p>*/}
+            {/*    <Link to={'https://acrobat.adobe.com/id/urn:aaid:sc:EU:a7d01b2a-9c77-4790-9a90-03bc661d5a59'}*/}
+            {/*          className={"Math_ML_pdf"} target={"_blank"}> View Certificate </Link>*/}
+            {/*</div>*/}
 
             <div className={"Masters_Proj"}>
                 <div className={"Nott_Image"}>
