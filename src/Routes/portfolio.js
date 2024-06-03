@@ -10,11 +10,40 @@ function Portfolio() {
     return (
         <div className={"Portfolio_Page"}>
 
+            <div className={"GramSchmidt"}>
+                <h2 className={"GramSchmidt_title"}> - Gram-Schmidt Process </h2>
+                <p className={'GramSchmidt_description'}> Using the Gram-Schmidt Process to form an orthonormal basis of
+                    a space spanned by a given set of vectors. .</p>
+                <Link className={"GramSchmidt_link"}
+                      to={"https://github.com/jacobhay2626/SQL_Fundamentals"} target={"_blank"}>Source
+                    Code</Link>
+            </div>
+
+
+            <div className={"GradientDescent"}>
+                <h2 className={"GradientDescent_title"}> - Gradient Descent </h2>
+                <p className={'GradientDescent_description'}> Using gradient descent to fit a Gaussian model to a
+                    distribution of heights.</p>
+                <Link className={"GradientDescent_link"}
+                      to={"https://github.com/jacobhay2626/SQL_Fundamentals"} target={"_blank"}>Source
+                    Code</Link>
+            </div>
+
+            <div className={"BackProp"}>
+                <h2 className={"BackProp_title"}> - Backpropagation </h2>
+                <p className={'BackProp_description'}> I trained a neural network to draw a curve using backpropagation.
+                    The neural network contains two hidden layers, each with 6 and 7 neurones, respectively. </p>
+                <Link className={"BackProp_link"}
+                      to={"https://github.com/jacobhay2626/SQL_Fundamentals"} target={"_blank"}>Source
+                    Code</Link>
+            </div>
+
+
             <div className={"DB2-Cloud"}>
                 <h2 className={"DB2-Cloud_title"}> - DB2 Cloud Database</h2>
                 <p className={'DB2-Cloud_description'}> Following the SQL fundamentals project, I used a DB2 Cloud
                     database to create a dataset describing footballers in europe, including their wages, team, league,
-                    and age. .</p>
+                    and age.</p>
                 <Link className={"DB2-Cloud_link"}
                       to={"https://github.com/jacobhay2626/SQL_Fundamentals"} target={"_blank"}>Source
                     Code</Link>

@@ -175,11 +175,96 @@
 /**************************** PORTFOLIO PAGE ********************************/
 
 
+.GramSchmidt_title{
+  position: absolute;
+  left: 40vw;
+  top: 400px;
+  font-size: 25px;
+  text-decoration: none;
+  color: white;
+  font-weight: 500;
+}
+
+.GramSchmidt_description{
+  font-size: 16px;
+  width: 480px;
+  font-style: italic;
+  position: absolute;
+  left: 40vw;
+  top: 450px;
+  color: white;
+}
+
+.GramSchmidt_link{
+  font-size: 16px;
+  color: white;
+  position: absolute;
+  left: 40vw;
+  top: 520px;
+}
+
+.GradientDescent_title{
+  position: absolute;
+  left: 40vw;
+  top: 550px;
+  font-size: 25px;
+  text-decoration: none;
+  color: white;
+  font-weight: 500;
+}
+
+.GradientDescent_description{
+  font-size: 16px;
+  width: 480px;
+  font-style: italic;
+  position: absolute;
+  left: 40vw;
+  top: 600px;
+  color: white;
+}
+
+.GradientDescent_link{
+  font-size: 16px;
+  color: white;
+  position: absolute;
+  left: 40vw;
+  top: 670px;
+}
+
+
+.BackProp_title{
+  position: absolute;
+  left: 40vw;
+  top: 700px;
+  font-size: 25px;
+  text-decoration: none;
+  color: white;
+  font-weight: 500;
+}
+
+.BackProp_description{
+  font-size: 16px;
+  width: 480px;
+  font-style: italic;
+  position: absolute;
+  left: 40vw;
+  top: 750px;
+  color: white;
+}
+
+.BackProp_link{
+  font-size: 16px;
+  color: white;
+  position: absolute;
+  left: 40vw;
+  top: 830px;
+}
+
 
 .DB2-Cloud_title{
   position: absolute;
   left: 40vw;
-  top: 270px;
+  top: 870px;
   font-size: 25px;
   text-decoration: none;
   color: white;
@@ -192,7 +277,7 @@
   font-style: italic;
   position: absolute;
   left: 40vw;
-  top: 320px;
+  top: 920px;
   color: white;
 }
 
@@ -201,13 +286,13 @@
   color: white;
   position: absolute;
   left: 40vw;
-  top: 400px;
+  top: 1000px;
 }
 
 .SQL_fundamentals_title{
   position: absolute;
   left: 40vw;
-  top: 440px;
+  top: 1040px;
   font-size: 25px;
   text-decoration: none;
   color: white;
@@ -220,7 +305,7 @@
   font-style: italic;
   position: absolute;
   left: 40vw;
-  top: 480px;
+  top: 1080px;
   color: white;
 }
 
@@ -229,14 +314,14 @@
   color: white;
   position: absolute;
   left: 40vw;
-  top: 580px;
+  top: 1180px;
 }
 
 
 .RNN_v_LSTM_title{
   position: absolute;
   left: 40vw;
-  top: 600px;
+  top: 1200px;
   font-size: 25px;
   text-decoration: none;
   color: white;
@@ -249,7 +334,7 @@
   font-style: italic;
   position: absolute;
   left: 40vw;
-  top: 640px;
+  top: 1240px;
   color: white;
 }
 
@@ -258,13 +343,13 @@
   color: white;
   position: absolute;
   left: 40vw;
-  top: 700px;
+  top: 1300px;
 }
 
 .SM_tech_indicators_title{
   position: absolute;
   left: 40vw;
-  top: 720px;
+  top: 1320px;
   font-size: 25px;
   text-decoration: none;
   color: white;
@@ -277,7 +362,7 @@
   font-style: italic;
   position: absolute;
   left: 40vw;
-  top: 760px;
+  top: 1360px;
   color: white;
 }
 
@@ -286,7 +371,7 @@
   color: white;
   position: absolute;
   left: 40vw;
-  top: 860px;
+  top: 1460px;
 }
 
 .SM_tech_pdf{
@@ -294,12 +379,12 @@
   position: absolute;
   color: white;
   left: 40vw;
-  top: 890px;
+  top: 1490px;
 }
 .time_series_vis_title{
   position: absolute;
   left: 40vw;
-  top: 910px;
+  top: 1510px;
   font-size: 25px;
   text-decoration: none;
   color: white;
@@ -312,7 +397,7 @@
   font-style: italic;
   position: absolute;
   left: 40vw;
-  top: 960px;
+  top: 1560px;
   color: white;
 }
 
@@ -321,13 +406,13 @@
   color: white;
   position: absolute;
   left: 40vw;
-  top: 1050px;
+  top: 1650px;
 }
 
 .trading_engine_title {
   position: absolute;
   left: 40vw;
-  top: 1080px;
+  top: 1680px;
   font-size: 25px;
   text-decoration: none;
   color: white;
@@ -340,7 +425,7 @@
   font-style: italic;
   position: absolute;
   left: 40vw;
-  top: 1130px;
+  top: 1730px;
   color: white;
 }
 
@@ -349,7 +434,7 @@
   color: white;
   position: absolute;
   left: 40vw;
-  top: 1270px;
+  top: 1870px;
 }
 
 
@@ -361,7 +446,7 @@
 .sma_title {
   position: absolute;
   left: 40vw;
-  top: 1290px;
+  top: 1890px;
   font-size: 25px;
   text-decoration: none;
   color: white;
@@ -374,7 +459,7 @@
   font-style: italic;
   position: absolute;
   left: 40vw;
-  top: 1330px;
+  top: 1930px;
   color: white;
 }
 
@@ -382,7 +467,7 @@
   font-size: 16px;
   position: absolute;
   left: 40vw;
-  top: 1450px;
+  top: 2050px;
   color: white;
 
 }
@@ -394,7 +479,7 @@
 .ffnn_title{
   position: absolute;
   left: 40vw;
-  top: 1490px;
+  top: 2090px;
   font-size: 25px;
   text-decoration: none;
   color: white;
@@ -407,7 +492,7 @@
   font-style: italic;
   position: absolute;
   left: 40vw;
-  top: 1530px;
+  top: 2130px;
   color: white;
 }
 
@@ -415,7 +500,7 @@
   font-size: 16px;
   position: absolute;
   left: 40vw;
-  top: 1610px;
+  top: 2210px;
   color: white;
 }
 
@@ -426,7 +511,7 @@
 .NFT_Title_1 {
   position: absolute;
   left: 40vw;
-  top: 1650px;
+  top: 2250px;
   font-size: 25px;
   font-weight: 500;
   color: white;
@@ -438,7 +523,7 @@
   width: 480px;
   position: absolute;
   left: 40vw;
-  top: 1690px;
+  top: 2290px;
   color: white;
 }
 
@@ -447,7 +532,7 @@
   color: white;
   position: absolute;
   left: 40vw;
-  top: 1730px;
+  top: 2330px;
 }
 
 .NFT_Basic{
@@ -457,7 +542,7 @@
 .NFT_Title_2 {
   position: absolute;
   left: 40vw;
-  top: 1770px;
+  top: 2370px;
   font-size: 25px;
   font-weight: 500;
   color: white;
@@ -469,7 +554,7 @@
   font-style: italic;
   position: absolute;
   left: 40vw;
-  top: 1810px;
+  top: 2410px;
   color: white;
 }
 
@@ -478,7 +563,7 @@
   color: white;
   position: absolute;
   left: 40vw;
-  top: 1870px;
+  top: 2470px;
 }
 
 
@@ -489,7 +574,7 @@
 .NFT_Title_3 {
   position: absolute;
   left: 40vw;
-  top: 1910px;
+  top: 2510px;
   font-size: 25px;
   font-weight: 500;
   color: white;
@@ -501,7 +586,7 @@
   width: 480px;
   position: absolute;
   left: 40vw;
-  top: 1950px;
+  top: 2550px;
   color: white;
 }
 
@@ -510,7 +595,7 @@
   color: white;
   position: absolute;
   left: 40vw;
-  top: 2040px;
+  top: 2640px;
 }
 
 /*.ML_Python_cert{*/
@@ -613,7 +698,7 @@
 .Masters_Title {
   position: absolute;
   left: 40vw;
-  top: 2070px;
+  top: 2670px;
   font-size: 25px;
   text-decoration: none;
   color: white;
@@ -626,7 +711,7 @@
   font-style: italic;
   position: absolute;
   left: 40vw;
-  top: 2110px;
+  top: 2710px;
   color: white;
 }
 
@@ -635,7 +720,7 @@
   color: white;
   position: absolute;
   left: 40vw;
-  top: 2230px;
+  top: 2830px;
 }
 
 .masters_pdf{
@@ -643,7 +728,7 @@
   color: white;
   position: absolute;
   left: 40vw;
-  top: 2250px;
+  top: 2850px;
 }
 
 /*********************************** Contact Page *********************************/
