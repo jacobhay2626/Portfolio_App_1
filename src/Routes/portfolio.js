@@ -12,7 +12,7 @@ function Portfolio() {
 
 
             <div className={"SQL_fundamentals"}>
-                <h2 className={"SQL_fundamentals_title"}> SQL Fundamentals </h2>
+                <h2 className={"SQL_fundamentals_title"}> - SQL Fundamentals </h2>
                 <p className={'SQL_description'}> Using fundamental concepts in SQL, I analysed three datasets describing schools, crime statistics
                     and census data in Chicago. Techniques used include: Group by, Order by, Like, Sub Queries and
                     Nested Selects.</p>
@@ -22,7 +22,7 @@ function Portfolio() {
             </div>
 
             <div className={"LSTM_v_RNN"}>
-                <h2 className={"RNN_v_LSTM_title"}> LSTM vs RNN on historical Bitcoin dataset</h2>
+                <h2 className={"RNN_v_LSTM_title"}> - LSTM vs RNN on historical Bitcoin dataset</h2>
                 <p className={"RNN_v_LSTM_description"}> Using a historical Bitcoin dataset I compared
                     the performance of a LSTM model to a RNN model for forecasting.</p>
 
@@ -35,7 +35,7 @@ function Portfolio() {
                 <div>
                     {/*<img className={"pyth_img_2"} src={PYTH_IMG} alt={"pyth"} width={90} height={100}/>*/}
                 </div>
-                <h2 className={"SM_tech_indicators_title"}> Stock Market Technical
+                <h2 className={"SM_tech_indicators_title"}> - Stock Market Technical
                     Indicators</h2>
                 <p className={"SM_tech_indicators_description"}> Using a stock market dataset I investigated different
                     technical indicators which can be applied for stock market analysis.
@@ -57,7 +57,7 @@ function Portfolio() {
                 <div>
                     {/*<img className={"pyth_img_1"} src={PYTH_IMG} alt={"pyth"} width={90} height={100}/>*/}
                 </div>
-                <h2 className={"time_series_vis_title"}> Time Series Visualizations</h2>
+                <h2 className={"time_series_vis_title"}> - Time Series Visualizations</h2>
                 <p className={"time_series_vis_description"}> I investigated characteristics of time series plots,
                     including Trend, Seasonality, Noise, Autocorellation, and Break Points. The characteristics were
                     visualised using matplotlib. </p>
@@ -72,7 +72,7 @@ function Portfolio() {
                 <div>
                     {/*<img className={"csharp_image"} src={CSharp_IMG} alt={"cs"} width={90} height={100}/>*/}
                 </div>
-                <h2 className={"trading_engine_title"}> Trading Engine Server and Logging Library</h2>
+                <h2 className={"trading_engine_title"}> - Trading Engine Server and Logging Library</h2>
                 <p className={"trading_engine_description"}> Using C#, I developed a trading engine server with a
                     logging
                     library. During this project i learnt about important concepts such as dependency injection,
@@ -91,7 +91,7 @@ function Portfolio() {
                 <div className={"SMA_image"}>
                     {/*<img className={"sma_image"} src={NN_IMG} alt={"sma"} width={90} height={100}/>*/}
                 </div>
-                <h2 className={"sma_title"}> Machine Learning in Stock Market Analysis</h2>
+                <h2 className={"sma_title"}> - Machine Learning in Stock Market Analysis</h2>
                 <p className={"sma_description"}> A research paper into how Machine Learning techniques, such as SVM,
                     MLFNN, STENN, PNN,
                     GRNN, FNN, and LSTM's, have progressed. Includes a literature review on past examples
@@ -106,7 +106,7 @@ function Portfolio() {
                 <div className={"FFNN_image"}>
                     {/*<img className={"ffnn_image"} src={NN_IMG} alt={"ffnn"} width={90} height={100}/>*/}
                 </div>
-                <h2 className={"ffnn_title"}> Mathematical Derivation of Feed-Forward Neural
+                <h2 className={"ffnn_title"}> - Mathematical Derivation of Feed-Forward Neural
                     Networks</h2>
                 <p className={"ffnn_description"}>
                     A complete derivation of the mathematics behind feed-forward neural
@@ -121,7 +121,7 @@ function Portfolio() {
                 <div className={"NFT_Image_1"}>
                     {/*<img className={"nft_image_1"} src={NFT_IMG} alt={"nft"} width={90} height={100}/>*/}
                 </div>
-                <h2 className={"NFT_Title_1"}> NFT Lottery </h2>
+                <h2 className={"NFT_Title_1"}> - NFT Lottery </h2>
                 <p className={"NFT_Lottery_description"}>
                     A lottery for a random NFT that rewards a lucky winner!
                 </p>
@@ -134,7 +134,7 @@ function Portfolio() {
                 <div className={"NFT_Image_2"}>
                     {/*<img className={"nft_image_2"} src={NFT_IMG} alt={"nft"} width={90} height={100}/>*/}
                 </div>
-                <h2 className={"NFT_Title_2"}> NFT Contract </h2>
+                <h2 className={"NFT_Title_2"}> - NFT Contract </h2>
                 <p className={"NFT_Basic_description"}>
                     A basic NFT contract that allows an individual to upload an NFT
                     using the images token URI
@@ -148,7 +148,7 @@ function Portfolio() {
                 <div className={"NFT_Image_3"}>
                     {/*<img className={"nft_image_3"} src={NFT_IMG} alt={"nft"} width={90} height={100}/>*/}
                 </div>
-                <h2 className={"NFT_Title_3"}> Coastal Seasons A.I. </h2>
+                <h2 className={"NFT_Title_3"}> - Coastal Seasons A.I. </h2>
                 <p className={"NFT_Website_description"}>
                     A website I developed for an NFT project last year. Used AI tools to
                     generate NFTs, marketed the collection on social media, and used this
@@ -210,7 +210,7 @@ function Portfolio() {
                 <div className={"Nott_Image"}>
                     {/*<img className={"nott_image"} src={NOTT_IMG} alt={"masters"} width={90} height={100}/>*/}
                 </div>
-                <h2 className={"Masters_Title"}> Labelling solvents using green chemistry
+                <h2 className={"Masters_Title"}> - Labelling solvents using green chemistry
                     principles </h2>
                 <p className={"Masters_description"}>
                     A collection of classification and regression machine learning models built to predict a score of

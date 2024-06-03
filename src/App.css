@@ -190,6 +190,7 @@
 .SQL_description{
   font-size: 13px;
   width: 480px;
+  font-style: italic;
   position: absolute;
   left: 40vw;
   top: 350px;
@@ -218,6 +219,7 @@
 .RNN_v_LSTM_description{
   font-size: 11px;
   width: 690px;
+  font-style: italic;
   position: absolute;
   left: 40vw;
   top: 450px;
@@ -245,6 +247,7 @@
 .SM_tech_indicators_description{
   font-size: 11px;
   width: 480px;
+  font-style: italic;
   position: absolute;
   left: 40vw;
   top: 560px;
@@ -279,6 +282,7 @@
 .time_series_vis_description{
   font-size: 11px;
   width: 480px;
+  font-style: italic;
   position: absolute;
   left: 40vw;
   top: 700px;
@@ -306,6 +310,7 @@
 .trading_engine_description{
   font-size: 11px;
   width: 480px;
+  font-style: italic;
   position: absolute;
   left: 40vw;
   top: 840px;
@@ -339,6 +344,7 @@
 .sma_description{
   font-size: 16px;
   width: 480px;
+  font-style: italic;
   position: absolute;
   left: 40vw;
   top: 1330px;
@@ -371,6 +377,7 @@
 .ffnn_description {
   font-size: 16px;
   width: 480px;
+  font-style: italic;
   position: absolute;
   left: 40vw;
   top: 1530px;
@@ -400,6 +407,7 @@
 
 .NFT_Lottery_description {
   font-size: 16px;
+  font-style: italic;
   width: 480px;
   position: absolute;
   left: 40vw;
@@ -431,6 +439,7 @@
 .NFT_Basic_description {
   font-size: 16px;
   width: 480px;
+  font-style: italic;
   position: absolute;
   left: 40vw;
   top: 1810px;
@@ -461,6 +470,7 @@
 
 .NFT_Website_description {
   font-size: 16px;
+  font-style: italic;
   width: 480px;
   position: absolute;
   left: 40vw;
@@ -586,6 +596,7 @@
 .Masters_description {
   font-size: 16px;
   width: 480px;
+  font-style: italic;
   position: absolute;
   left: 40vw;
   top: 2110px;
