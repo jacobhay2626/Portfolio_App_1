@@ -10,6 +10,17 @@ function Portfolio() {
     return (
         <div className={"Portfolio_Page"}>
 
+            <div className={"DataAnalysisFunds"}>
+                <h2 className={"DataAnalysisFunds_title"}> - Fundamental Concepts of Data Analysis </h2>
+                <p className={'DataAnalysisFunds_description'}> An overview of data analysis and the steps required for
+                    developing a suitable dataset. Concepts covered include data cleaning, data transformation,. data
+                    mining, and different statistics. Along with data exploration of a real world dataset.</p>
+                <Link className={"DataAnalysisFunds_link"}
+                      to={"https://github.com/jacobhay2626/SQL_Fundamentals"} target={"_blank"}>Source
+                    Code</Link>
+            </div>
+
+
             <div className={"MatrixBasics"}>
                 <h2 className={"MatrixBasics_title"}> - Basic Matrix Operations </h2>
                 <p className={'MatrixBasics_description'}> Created a function for matrix row reductions and determining
