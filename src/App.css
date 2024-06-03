@@ -155,7 +155,7 @@
 }
 
 .title {
-  font-size: 13vw;
+  font-size: 12vw;
   color: white;
   position: absolute;
   /*top: 0px;*/
@@ -168,7 +168,7 @@
   left: 8vw;
   width: 55vw;
   text-align: left;
-  font-size: 1.7vw;
+  font-size: 1.4vw;
 }
 
 
@@ -180,7 +180,7 @@
 .SQL_fundamentals_title{
   position: absolute;
   left: 40vw;
-  top: 310px;
+  top: 440px;
   font-size: 25px;
   text-decoration: none;
   color: white;
@@ -188,28 +188,28 @@
 }
 
 .SQL_description{
-  font-size: 13px;
+  font-size: 16px;
   width: 480px;
   font-style: italic;
   position: absolute;
   left: 40vw;
-  top: 350px;
+  top: 480px;
   color: white;
 }
 
 .SQL_link{
-  font-size: 11px;
-  text-decoration: none;
+  font-size: 16px;
+  color: white;
   position: absolute;
   left: 40vw;
-  top: 400px;
+  top: 580px;
 }
 
 
 .RNN_v_LSTM_title{
   position: absolute;
   left: 40vw;
-  top: 410px;
+  top: 600px;
   font-size: 25px;
   text-decoration: none;
   color: white;
@@ -217,27 +217,27 @@
 }
 
 .RNN_v_LSTM_description{
-  font-size: 11px;
+  font-size: 16px;
   width: 690px;
   font-style: italic;
   position: absolute;
   left: 40vw;
-  top: 450px;
+  top: 640px;
   color: white;
 }
 
 .RNN_v_LSTM_link{
-  font-size: 11px;
-  text-decoration: none;
+  font-size: 16px;
+  color: white;
   position: absolute;
   left: 40vw;
-  top: 500px;
+  top: 700px;
 }
 
 .SM_tech_indicators_title{
   position: absolute;
   left: 40vw;
-  top: 520px;
+  top: 720px;
   font-size: 25px;
   text-decoration: none;
   color: white;
@@ -245,34 +245,34 @@
 }
 
 .SM_tech_indicators_description{
-  font-size: 11px;
+  font-size: 16px;
   width: 480px;
   font-style: italic;
   position: absolute;
   left: 40vw;
-  top: 560px;
+  top: 760px;
   color: white;
 }
 
 .SM_tech_indicators_link{
-  font-size: 11px;
-  text-decoration: none;
+  font-size: 16px;
+  color: white;
   position: absolute;
   left: 40vw;
-  top: 615px;
+  top: 860px;
 }
 
 .SM_tech_pdf{
-  font-size: 11px;
-  text-decoration: none;
+  font-size: 16px;
   position: absolute;
+  color: white;
   left: 40vw;
-  top: 630px;
+  top: 890px;
 }
 .time_series_vis_title{
   position: absolute;
   left: 40vw;
-  top: 660px;
+  top: 910px;
   font-size: 25px;
   text-decoration: none;
   color: white;
@@ -280,27 +280,27 @@
 }
 
 .time_series_vis_description{
-  font-size: 11px;
+  font-size: 16px;
   width: 480px;
   font-style: italic;
   position: absolute;
   left: 40vw;
-  top: 700px;
+  top: 960px;
   color: white;
 }
 
 .time_series_vis_link{
-  font-size: 11px;
-  text-decoration: none;
+  font-size: 16px;
+  color: white;
   position: absolute;
   left: 40vw;
-  top: 750px;
+  top: 1050px;
 }
 
 .trading_engine_title {
   position: absolute;
   left: 40vw;
-  top: 800px;
+  top: 1080px;
   font-size: 25px;
   text-decoration: none;
   color: white;
@@ -308,21 +308,21 @@
 }
 
 .trading_engine_description{
-  font-size: 11px;
+  font-size: 16px;
   width: 480px;
   font-style: italic;
   position: absolute;
   left: 40vw;
-  top: 840px;
+  top: 1130px;
   color: white;
 }
 
 .trading_link{
-  font-size: 11px;
-  text-decoration: none;
+  font-size: 16px;
+  color: white;
   position: absolute;
   left: 40vw;
-  top: 910px;
+  top: 1270px;
 }
 
 
