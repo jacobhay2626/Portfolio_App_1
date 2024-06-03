@@ -16,7 +16,7 @@ function Portfolio() {
                     developing a suitable dataset. Concepts covered include data cleaning, data transformation,. data
                     mining, and different statistics. Along with data exploration of a real world dataset.</p>
                 <Link className={"DataAnalysisFunds_link"}
-                      to={"https://github.com/jacobhay2626/SQL_Fundamentals"} target={"_blank"}>Source
+                      to={"https://github.com/jacobhay2626/Data_Analysis_1"} target={"_blank"}>Source
                     Code</Link>
             </div>
 
@@ -26,7 +26,7 @@ function Portfolio() {
                 <p className={'MatrixBasics_description'}> Created a function for matrix row reductions and determining
                     the singularity of a matrix.</p>
                 <Link className={"MatrixBasics_link"}
-                      to={"https://github.com/jacobhay2626/SQL_Fundamentals"} target={"_blank"}>Source
+                      to={"https://github.com/jacobhay2626/Matrices_Basics_1"} target={"_blank"}>Source
                     Code</Link>
             </div>
 
@@ -35,7 +35,7 @@ function Portfolio() {
                 <p className={'GramSchmidt_description'}> Using the Gram-Schmidt Process to form an orthonormal basis of
                     a space spanned by a given set of vectors.</p>
                 <Link className={"GramSchmidt_link"}
-                      to={"https://github.com/jacobhay2626/SQL_Fundamentals"} target={"_blank"}>Source
+                      to={"https://github.com/jacobhay2626/Gram-Schmidt-Process"} target={"_blank"}>Source
                     Code</Link>
             </div>
 
@@ -45,7 +45,7 @@ function Portfolio() {
                 <p className={'GradientDescent_description'}> Using gradient descent to fit a Gaussian model to a
                     distribution of heights.</p>
                 <Link className={"GradientDescent_link"}
-                      to={"https://github.com/jacobhay2626/SQL_Fundamentals"} target={"_blank"}>Source
+                      to={"https://github.com/jacobhay2626/Steepest_Descent"} target={"_blank"}>Source
                     Code</Link>
             </div>
 
@@ -54,7 +54,7 @@ function Portfolio() {
                 <p className={'BackProp_description'}> I trained a neural network to draw a curve using backpropagation.
                     The neural network contains two hidden layers, each with 6 and 7 neurones, respectively. </p>
                 <Link className={"BackProp_link"}
-                      to={"https://github.com/jacobhay2626/SQL_Fundamentals"} target={"_blank"}>Source
+                      to={"https://github.com/jacobhay2626/Backprop_1"} target={"_blank"}>Source
                     Code</Link>
             </div>
 
@@ -65,7 +65,7 @@ function Portfolio() {
                     database to create a dataset describing footballers in europe, including their wages, team, league,
                     and age.</p>
                 <Link className={"DB2-Cloud_link"}
-                      to={"https://github.com/jacobhay2626/SQL_Fundamentals"} target={"_blank"}>Source
+                      to={"https://github.com/jacobhay2626/IBM_DB2_CLOUD_1"} target={"_blank"}>Source
                     Code</Link>
             </div>
 
