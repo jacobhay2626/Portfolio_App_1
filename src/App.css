@@ -177,7 +177,7 @@
 .DataAnalysisFunds_title{
   position: absolute;
   left: 40vw;
-  top: 130px;
+  top: 160px;
   font-size: 25px;
   text-decoration: none;
   color: white;
@@ -190,7 +190,7 @@
   font-style: italic;
   position: absolute;
   left: 40vw;
-  top: 170px;
+  top: 200px;
   color: white;
 }
 
@@ -199,14 +199,14 @@
   color: white;
   position: absolute;
   left: 40vw;
-  top: 270px;
+  top: 300px;
 }
 
 
 .MatrixBasics_title{
   position: absolute;
   left: 40vw;
-  top: 280px;
+  top: 320px;
   font-size: 25px;
   text-decoration: none;
   color: white;
@@ -219,7 +219,7 @@
   font-style: italic;
   position: absolute;
   left: 40vw;
-  top: 320px;
+  top: 360px;
   color: white;
 }
 
@@ -228,14 +228,14 @@
   color: white;
   position: absolute;
   left: 40vw;
-  top: 380px;
+  top: 420px;
 }
 
 
 .GramSchmidt_title{
   position: absolute;
   left: 40vw;
-  top: 400px;
+  top: 440px;
   font-size: 25px;
   text-decoration: none;
   color: white;
@@ -248,7 +248,7 @@
   font-style: italic;
   position: absolute;
   left: 40vw;
-  top: 450px;
+  top: 490px;
   color: white;
 }
 
@@ -257,13 +257,13 @@
   color: white;
   position: absolute;
   left: 40vw;
-  top: 520px;
+  top: 560px;
 }
 
 .GradientDescent_title{
   position: absolute;
   left: 40vw;
-  top: 550px;
+  top: 580px;
   font-size: 25px;
   text-decoration: none;
   color: white;
@@ -276,7 +276,7 @@
   font-style: italic;
   position: absolute;
   left: 40vw;
-  top: 600px;
+  top: 620px;
   color: white;
 }
 
@@ -285,7 +285,7 @@
   color: white;
   position: absolute;
   left: 40vw;
-  top: 670px;
+  top: 680px;
 }
 
 
