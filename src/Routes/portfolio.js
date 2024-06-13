@@ -87,7 +87,7 @@ function Portfolio() {
                     the performance of a LSTM model to a RNN model for forecasting.</p>
 
                 <Link className={"RNN_v_LSTM_link"}
-                      to={"https://github.com/jacobhay2626/SM_Technical_Indicators.git"} target={"_blank"}>Source
+                      to={"https://github.com/jacobhay2626/LSTM_v_RNN"} target={"_blank"}>Source
                     Code</Link>
             </div>
 
